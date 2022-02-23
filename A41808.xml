@@ -1,0 +1,752 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations upon the second canon in the book entituled Constitutions and canons ecclesiastical, &amp;c.</title>
+            <author>Grascome, Samuel, 1641-1708?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41808</idno>
+            <idno type="STC">Wing G1569</idno>
+            <idno type="STC">ESTC R11703</idno>
+            <idno type="EEBO-CITATION">12425859</idno>
+            <idno type="OCLC">ocm 12425859</idno>
+            <idno type="VID">61848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 939:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations upon the second canon in the book entituled Constitutions and canons ecclesiastical, &amp;c.</title>
+                  <author>Grascome, Samuel, 1641-1708?</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of originals in Cambridge University Library and Huntington Library.</note>
+                  <note>Pages 1-11 from Huntington Library copy spliced at end.</note>
+                  <note>Attributed to Samuel Grascome. cf. NUC Pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hody, Humphrey, 1659-1707. --  Constitutions and canons ecclesiastical.</term>
+               <term>Church of England --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61848:1"/>
+            <pb facs="tcp:61848:1" rendition="simple:additions"/>
+            <p>CONSIDERATIONS UPON THE Second CANON In the BOOK Entituled Conſtitutions and Canons Eccleſiaſtical, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXC<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:61848:2"/>
+            <pb n="3" facs="tcp:61848:2"/>
+            <head>CONSIDERATIONS UPON THE Second Canon, &amp;c.</head>
+            <p>SO various and ſickle are the Circumſtances of Life, and ſo ſhort and full of Incumbrances is it at the beſt, that it were not worth while to be Man, had he not a God to ſerve, who could reward him with future Happineſs; and God having made this Life a ſtate of Pro<g ref="char:EOLhyphen"/>bationerſhip, wherein Man is upon his good Behaviour, and ac<g ref="char:EOLhyphen"/>cording to his Demeanour here ſhall either be recompenced with Eternal Bliſs after this painful Life ended, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fall into endleſs Miſery: Upon this account Religion becomes more dear to him than all the things of this World put together: <hi>For what ſhall it profit a Man to gain the whole World, and loſe his Soul?</hi> But then Religion being the Worſhip of God according to his Will; that it may be our Guide to Heaven, it muſt not be ſought for in our Fancies, but from his Revelations and Diſcoveries; we ſhall deceive our ſelves, and cheat our ſelves out of our precious Souls, if we will make a Religion by ſtarting new Notions, and ſetting up Novelties; ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Buſi<g ref="char:EOLhyphen"/>neſs is to find out the good Old way, and walk in it, deny our ſelves, and to dread and abominate the running a whoring after our own Inventions, and firmly to adhere to the Religion our Bleſſed Saviour hath left us, in which alone Salvation is to be obtained: And therefore, though not only the ſmootheſt Deceivers, but an Angel from Heaven ſhould teach us any o<g ref="char:EOLhyphen"/>ther way, we ought not only to turn the deaf Ear upon their Perſwaſions, but account them accurſed. Now the Subſtance of what our Saviour taught, his Apoſtles and Evangeliſts wrote; but by reaſon of the diſtance of Time, the different Cuſtoms of Countries, the ignorance of the Occaſions, where<g ref="char:EOLhyphen"/>upon many things were wrote or ſpoken, and divers like Matters; in cafe of difficulty it ſeems to be the ſureſt way to have recourſe to thoſe Apoſto<g ref="char:EOLhyphen"/>lical Perſons, and their Succeſſors treading in their Steps, and to thoſe firſt planted Churches, who, by reaſon of their nearneſs to the Apoſtles times had the beſt opportunity to underſtand their meaning, and alſo b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing conti<g ref="char:EOLhyphen"/>nu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly under ſuch ſevere Perſecutions or Expectations of them, that they had no other hopes or comfort but Heaven, could not with any reaſon be thought to have any temptation or itch either to be inſincere in them<g ref="char:EOLhyphen"/>ſelves, or unfaithful to others: And in the great Degenera<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the preſent
+<pb n="4" facs="tcp:61848:3"/>
+Chriſtian World I think I may be bold to ſay, that, relation being had to her Conſtitutions, no Church in the Univerſe came nearer to the Primitive Pattern than the Church of <hi>England,</hi> which hath made her both the Envy and the Mark of all ſorts of Sects and Parties; but this though it might and did cauſe her much trouble, yet by rendring her more wary and induſtri<g ref="char:EOLhyphen"/>ous, more careful of her Conſtitutions, and more watchful over her Mem<g ref="char:EOLhyphen"/>bers, perhaps did rather contribute to her Preſervation than Deſtruction; in all likelihood not all their Malice could have prevailed againſt her, had not Vipers within her eat out her Bowels, or <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he by turning her Hand againſt her ſelf become a <hi>Felo de ſe;</hi> and to this the preſent fatal Schiſm hath well near brought it: The <hi>proud ſwelling Swearers</hi> have carried away the greateſt part of her Members, and whilſt they hug themſelves in their <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Wickedneſs, are become the Scorn and Deriſion of the meaneſt Sectaries and wildeſt Fanaticks: And as for thoſe who have retained their Integrity, and with whom the true Authority remains, the haughty Schiſmaticks in<g ref="char:EOLhyphen"/>ſolently reproach them, as too few to bear the weight of ſo great a Cauſe; and indeed in the Eye of Humane Reaſon it could not be thought that they could long hold out againſt ſo many, who thirſt for their Bloud, were not their Cauſe God's Cauſe, who can ſupport them not withſtanding the violence of any Arm of Fleſh, and doubtleſs will, if they be not wanting to their own part. But after all, perhaps the <hi>boaſting Apoſtates</hi> may deceive themſelves in the fewneſs of their number: For though the Clergy to the Eternal Shame of the Deſerters be not exceeding numerous, yet they are pious, learned and ſtout; and their Adherents, as they are more, than their Adverſaries could wiſh or are aware of, ſo are they ſteady, devout and ſober; and Men now begin ſo generally to ſee through the Mask, that they daily more incline to the one, and become more averſe to the other: Neither are there wanting multitudes of ſober Men abroad, who are highly concerned for their Caſe, as may in part appear by a Letter out of another Kingdom, which hath occaſioned the enſuing Diſcourſe, the Contents whereof (ſo far as concerns this Matter) are <hi>Verbatim</hi> as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I Confeſs my ſelf very much a Stranger to the Conſtitution and Policy of the Church of</hi> England; <hi>I humbly crave Pardon therefore, if this Line is uſeleſs; if it proves uſeful, I have my Reward.</hi>
+                  </p>
+                  <p>
+                     <hi>I have ſeen ſome of thoſe excellent Books, which have been lately written in de<g ref="char:EOLhyphen"/>fence of the preſent Separation from the complying Church of</hi> England. <hi>I am fully ſatisfied, that it is defended on very firm Grounds: Yet one Topick there is, which I have not obſerved made uſe of; it is this:</hi>
+                  </p>
+                  <p>
+                     <hi>The ſecond of thoſe which are commonly called the Canons of the Church of</hi> England, <hi>declares all thoſe excommunicated</hi> ipſo facto, <hi>who do not own the King's Authority,</hi> &amp;c.</p>
+                  <p>
+                     <pb n="5" facs="tcp:61848:3"/>
+                     <hi>By King, That Perſon is to be underſtood, (according to the undo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>in<g ref="char:EOLhyphen"/>ciples of the Church of</hi> England) <hi>who is poſſeſt of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hrone according to the Civi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Conſtitution of the</hi> Engliſh <hi>Hereditary Monarchy: Whoſoever diſowns his Au<g ref="char:EOLhyphen"/>thority,</hi> &amp;c. <hi>by the Canon incurs the Sentence of Excommunication</hi> ipſo facto.</p>
+                  <p>
+                     <hi>Excommunication</hi> ipſo facto, <hi>or</hi> latae ſent<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntiae, <hi>(as they call it,) muſt ne<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s import at leaſt, That the Church of</hi> England <hi>declares thoſe to be none of her Com<g ref="char:EOLhyphen"/>munion, who publickly, notoriouſly, and obſt mately diſown ſuch a King's Authori<g ref="char:EOLhyphen"/>ty: Such ought to be deemed and treated as Excommunicates, without farther judi<g ref="char:EOLhyphen"/>cial Proceſs or Sentence. The Nature of</hi> ipſo facto <hi>Excommunication cannot bear leſs, as is evident to all who know any thing of the Canon Law, by which that is made the proper difference betwixt</hi> Excommunicatio latae <hi>and</hi> ferendae Sen<g ref="char:EOLhyphen"/>tentiae.</p>
+                  <p>
+                     <hi>From theſe Grounds it ſeems to me to follow pretty naturally, That King</hi> James <hi>has either quite loſt his Right, or the Compliers, the Jurors, the Revolutioniſts, (if I may ſo call them) are not, cannot be the Church of</hi> England; <hi>ſo that the main of the Controverſie hangs much on this</hi> Dilemma: <hi>Either King</hi> James <hi>has loſt his Right, or he has not; if he has, and King</hi> William<hi>'s Right is good, the Non Jurors or Anti Revolutioniſts are excommunicated</hi> ipſo facto <hi>by the Canon, and may be charged with the horrid Guilt of Schiſm: But if he has not loſt his Right, then the Jurors, the Revolutioniſts are excommunicated</hi> ipſo facto <hi>by the Canon; by conſequence they cannot be the Church of</hi> England, <hi>they have incurred her Cenſures, are cut off from her Communion, her ſound Members ought not to communicate with them: And the Anti-Revolutioniſts, how few ſoever, are the only Church of</hi> England <hi>I have ſtated this Reaſoning but very briefly, you may eaſily examine it more fully; and if it holds, I have my purpoſe: For when it is enquired into and found ſolid, it may deſerve its proper place in ſome Book or other, that may after this be written on the Controverſie. Beſides, it may be uſeful for ob<g ref="char:EOLhyphen"/>via<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing that popular Plea againſt the Separation, That the Original Queſtion is only of Civil Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cern, and ought not to affect the Intereſts of the Church: For from theſe Grounds it appears, that in the Opinion of the Church of</hi> England, <hi>which made the Canons, it was of ſuch concern, as to have the higheſt Cenſures of the Church intereſted in it, and to be made a fundamental term of her Communion. If after it is examined by Men of better Judgment, and better skill'd in the con<g ref="char:EOLhyphen"/>cerns of the Church of</hi> England, <hi>it ſhall,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="part">
+                        <head>The Canon, to which the Author of the Letter reſers.</head>
+                        <p>WHoſoever ſhall hereafter affirm, that the King's Majeſty hath not the ſame Authority in Cauſes Eccleſiaſtical that the Godly Kings had amongſt the Jews, and Chriſtian Emperors in the Primitive Church, or impeach in any part his Regal Supremacy in the ſaid Cauſes reſtored to the Crown, and by the Laws of the Realm therein eſtabliſhed: Let him be excommunicated <hi>ipſo facto,</hi> and not reſtored but only by the Arch-Biſhop after his Repentance, and publick Revocation of thoſe his wicked Errors.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="6" facs="tcp:61848:4"/>
+Before I come to explain the intent and force of this Canon, I think it convenient to ſet down a Poſition in the firſt Canon, which <hi>all Perſons having <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure of Souls, and all other Preachers and Readers of Divinity</hi> are obliged <hi>to the uttermoſt of their Wit, Knowledg and Learning, purely and ſincerely, (without any Colour or Diſſimulation) to teach, manifeſt, open and declare four times every Year at the leaſt.</hi> And whether this hath been done, or, if done, with what Sincerity by the greateſt part, let the World judge by their preſent and late Actings. And it may be farther obſerved, that this Poſition is level<g ref="char:EOLhyphen"/>led as well againſt all Civil as Eccleſiaſtical Foreign Powers, as may appear not only from the Words in it, but from our Laws and Statutes, (which ſhall hereafter be produced,) which this was deſigned to ſtrengthen and con<g ref="char:EOLhyphen"/>firm, That the Spiritual Sword might afford what aſſiſtance it could to the Secular, and both Powers concur to ſecure the Lawful Supream Governour, upon whoſe Safety and Welfare the Well-being of both ſo much depended.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="part">
+                        <head>The Poſition in the firſt Canon.</head>
+                        <p>That all Uſurped and Foreign Power (foraſmuch as the ſame hath no eſtabliſhment nor ground by the Law of God) is for moſt juſt Cauſes ta<g ref="char:EOLhyphen"/>ken away and aboliſhed; and that therefore no manner of Obedience, or Subj<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ction within his Majeſty's Realms and Dominions is due unto any ſuch Foreign Power: But that the King's Power within his Realms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and all other his Dominions and Countries, is the higheſt Power under God, to whom all Men, as well Inhabitants, as born within the ſame, do by God's Laws owe moſt Loyalty and Obedi<g ref="char:EOLhyphen"/>ence, <hi>afore and above all other Powers and Potentates in Earth.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>I do not deny, but that the Uſurpations of the Court of <hi>Rome</hi> were the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccaſion of laying down this Poſition; but then though the occaſions of Laws or Canons are particular, yet the Law or Canon it ſelf is general <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt all Miſchiefs whatſoever of the like kind. If the occaſion of the firſt Law againſt Murder had been the cutting a Man's Throat, no State what<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> would be ſo weak as to make a Law only againſt cutting of Throats, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd leave bloudy Men free to uſe all other ways; but their Law would be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade general to prevent the killing any Man either with Knife, Sword, Piſtol, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or any other way or means whatſoever; otherwiſe at this rate we muſt have a particular Law for every particular Fact: It were a ridiculous <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing to make a Fence againſt the Encroachments and Uſurpations of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oman</hi> Court, and to leave open a wide Gap for all others to enter in at pleaſure. For though we may juſtly have particular Apprehenſions of the Al<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-aſſuming Man at <hi>Rome,</hi> yet we have the ſame reaſon againſt all Uſur<g ref="char:EOLhyphen"/>pat<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns, as being equally pernicious to us from what Quarter ſoever they <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me.</p>
+            <p>
+               <pb n="7" facs="tcp:61848:4"/>
+But that we may come nearer to the Buſineſs, both this Poſition and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fore-cited Canon are equally acknowledged by both Parties engaged in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent Controverſie; both Non-Jurors and Jurors aſſert themſelves to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Church of <hi>England,</hi> and lay claim to the Canon as a Canon of thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church; if therefore the Canon be violated, there can be no Cotroverſie betwixt either Party, but that the Penalty mentioned in the Canon belongs to the Violators; ſo that if either Party appear guilty, the Penalty muſt be fixed by conſent. Now for both Parties to get quit of it is impoſſible; this Thunderbolt muſt unavoidably fall upon the one or the other: For i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King <hi>James</hi> be our true and lawful Sovereign, then the Regal Authority is his; and conſequently the Supremacy, which is the choiceſt and top Branch of that Authority; and if ſo, then the Jurors, who not only deny King <hi>James</hi>'s Supremacy, but have to their Power diveſted him of all Authority, muſt in<g ref="char:EOLhyphen"/>evitably ſtand excommunicated <hi>ipſo facto</hi> by vertue of this Canon, the force of which themſelves acknowledg. On the other hand, it is not to be doubted but the Jurors will not be wanting to themſelves in charging the Non-Jurors with the ſame Guilt, for not worſhipping the Idol which they have ſet up, and which hath been more chargeable than ever was <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi>'s Golden Image. Now the Mighty Dr. <hi>Sherlock</hi> tells us, <hi>That we cannot have two Kings at once;</hi> and though I am not ſatisfied, that the Doctor's Propoſition is univerſally true, (for <hi>David</hi> cauſed <hi>Solomon</hi> to be anointed and proclaimed King in his Life-time without diveſting himſelf, and the like did our King <hi>Henry</hi> II. to his no ſmall Trouble;) yet in this Caſe where the two Titles claſh and mutually deſtroy each other, ſo that if the former be Rightful King, the latter muſt be an Uſurper; if the latter have acquired a Right, the former muſt have loſt his; there it is moſt certain that we cannot have two Kings at once. Now for their New-faſhion'd King, they may take the beſt care of him they can; that which lies on us is to prove the Right in King <hi>James,</hi> which even Dr. <hi>Sherlock</hi> acknowledgeth; and that very thing makes his <hi>de facto</hi> King to be but another Name for an Uſurper: For a bare <hi>de facto</hi> King is no more a King, than a Poſſeſſor <hi>malae ſidei</hi> is the true Proprietor of an Eſtate, which he hath unlawfully and unjuſtly thruſt himſelf into. Now the Right being ſuppoſed, the Powers and Authorities are inſeparably annexed to it, though by prevailing Wickedneſs, or other Means, the Exerciſe may for a time be ſuſpended; and then the denying or oppoſing this Authority doth incur the Cenſure of this Canon. Now that King <hi>James</hi> is our Lawful Rightful King hath been clearly proved by ſo ma<g ref="char:EOLhyphen"/>ny learned Pens, that I may well ſpare my pains; and therefore ſhall take notice of it only as it were <hi>in tranſitu,</hi> and ſo far forth as is needful to make for the directing the Cenſure of this Canon, and explaining it.</p>
+            <p>Several Pleas are ſet up by our Adverſaries, to prove that King <hi>James</hi> hath loſt or ſome way or other quitted his Title; but as moſt of their Pleas fall foul upon each other, and as deſtroying one another cannot be all true, ſo neither dare they tell us which they will ſtand to; that which deſerves
+<pb n="8" facs="tcp:61848:5"/>
+to come in the Van is the Plea of a juſt <hi>Conqueſt,</hi> which ſwallows up not on<g ref="char:EOLhyphen"/>ly the Title of the King, but the Rights of all the Subjects; and this no doubt will make a brave Deliverance from Slavery: I cannot tell whether this way of arguing be more baſe or bold; yet herein amongſt others have en<g ref="char:EOLhyphen"/>gaged themſelves the <hi>Welſh Prophet,</hi> the <hi>Scotch Apoſtle,</hi> and (leſt the Moun<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>banks ſhould want their Zany) the <hi>Biſhopſgate-ſtreet Doctor,</hi> who whilſt he thought himſelf fallen under Diſgrace with his Maſter, and neglected, began to bellow, <hi>What! two Kings, two Arch-Biſhops? &amp;c.</hi> but ſee how great is the Policy in underſtanding the Proverb, <hi>da off am <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erbero:</hi> For no ſooner was an Offer made of a good fat Prebend, but the Fowl not only came to the Lure, but Ingratitude undertook to rake into poor martyred Mr. <hi>Aſh<g ref="char:EOLhyphen"/>ton</hi> s Aſhes, and anſwer his dying Speech: But it ſeems to be much ſafer medling with the Dead than the Living; for though he hath been ſomewhat roughly handled for this by the Author of the <hi>Loyal Martyr,</hi> yet ever ſince he hath been as mute as a Fiſh. But after all there is no Anſwerer like a thing called a Parliament; they do it effectually, as Dr. <hi>Burnet</hi> to his great Mortiſication now very well knows: And though this be indeed only <hi>arga<g ref="char:EOLhyphen"/>mentum ad hominem;</hi> yet it is enough for me here, becauſe our Adverſaries muſt acqui<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſce in it: For they who own a Government<g ref="char:punc">▪</g> muſt not, ought not to ſet that Government upon ſuch grounds, as the Government it ſelf not only diſowns but condemns: And ſo Farewel <hi>Conqueſt.</hi>
+            </p>
+            <p>The next celebrated Argument is a Jumble of <hi>Deſertion and Abdication:</hi> But this, if it were true, would not do their work. For he that deſerts or abdicates, deſerts and abdicates for himſelf; the Rights of others are ſaved, it lies not in his Power to give them away: So that if it could be ſuppoſed, that King <hi>James</hi> had abdicated or deſerted, yet that would give <hi>William</hi> and <hi>Mary</hi> no Right, unleſs they had it elſewhere; for upon ſuch Abdication or Deſertion, our Conſtitutions had immediately ſet the Crown upon the Head of the next Heir: And there is one before them, againſt whoſe innocence nothing can be pretended; and it is the heighth of Impudence to blaſt ſuch Innocence with the Name of an Impoſture, and never offer the leaſt proof of it, though they have been ſo often provoked and dared to it. If therefore King <hi>James</hi> had really and truly abdicated or deſerted, then the Prince of <hi>Wales</hi> at that inſtant had become our King. Now they deny the Authority of the Son, as well as of the Father; and therefore either the one way or the other muſt be entangled in this Cenſure. But after all, the Aſſertion it ſelf is a notorious ſhameleſs Falſhood: For a Deſertion in this caſe muſt be altogether voluntary, and ſo voluntary, that there ought nor in reaſon to be thought, that there was at that time ſo much as <hi>animus rever<g ref="char:EOLhyphen"/>tendi;</hi> nay let it be never ſo voluntary, yet an Author of their own, (who thinks himſelf no ſmall Babe, and was no idle Promoter of the Revolution,) will not allow it to be good in Law, unleſs an <hi>Huy and Cry</hi> be ſent after him, and forty days notice being given, he refuſe to return. But how will this agree with his Propoſal to the City by the Biſhop of <hi>Wincheſter?</hi> With his
+<pb n="9" facs="tcp:61848:5"/>
+Letter from <hi>Rocheſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r?</hi> With his Letter to the Convention? <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> landing in <hi>Ireland,</hi> and uſing all Endeavours to regain his Right, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> betrayed and beaten back by his faithleſs Subjects? And with the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the aid of his Friends, and the claiming his Right, and calling upon his Subjects to return to their Allegiance, and come in to his Aſſiſtance: Wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they can prove that claiming is renouncing, and that the utmoſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Man can uſe to regain his Right is the real and abſolute quitti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then they may prove this to be Deſertion: Certainly theſe Men never knew what bluſhing was. As for Abdication in this place it muſt be underſtood actively, as a Man is ſaid <hi>abdicare ſe Magiſtratu;</hi> but that requires a formal Renunciation or Reſignation: But why is it not produced? Or rather, Why have not theſe Men, who ſtick at nothing, forged one in all this time? Though it will be very difficult to impoſe upon Men with a counterſeit Re<g ref="char:EOLhyphen"/>ſignation of a Man, who apparently all along hath ſo ſtrongly and conſtant<g ref="char:EOLhyphen"/>ly claimed: But I need not inſiſt on this any longer, becauſe the very Ar<g ref="char:EOLhyphen"/>guments which conſute Deſertion, deſtroy Abdication; of which any may read enough to their Satisfaction in <hi>Deſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion diſcuſs'd,</hi> and many other learned Tracts handling that Subject.</p>
+            <p>There is another Mong<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el Plea ſet up by the <hi>de facto</hi> Men; I know not well what to call it, nor to what Topick to refer it. Theſe Men without any regard to Conſcience, Faith, or common Honeſty, are for ſecuring their Worldly Enjoyments, and making their preſent Markets; and they boldly tell you that you are bound in all things to obey <hi>the King in Poſſeſſion.</hi> But what if a <hi>King in Poſſeſſion</hi> ſhould prove a Contradiction <hi>in terminis?</hi> When a Perſon is in Poſſeſſion of a Throne without Right, and in oppoſiti<g ref="char:EOLhyphen"/>on to a juſt Right, all the World hath hitherto accounted ſuch an one an Uſurper, not a King; but with theſe Men, all the World before them were Fools: For if they ſay true, there can be no ſuch thing as an Uſurper. But this is the leaſt evil of this perfidious Notion: For it turns the World into a bloudy Theatre, makes every thing a Prize to every Man, who by ſight<g ref="char:EOLhyphen"/>ing, ſcrambling, cheating, or any other means can get Poſſeſſion of it; de<g ref="char:EOLhyphen"/>ſtroys the nature of Right and Wrong; reſolves all Right into Poſſeſſion; and renders all Laws both Divine and Humane ſo far as relates to Property) unneceſſary, uſeleſs, and inſignificant.</p>
+            <p>But I may very well ſpare any farther pains in this particular; becauſe of late their much admired <hi>Juli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Johnſon,</hi> though he is pleaſed ſo liberally to make a <hi>Sacrifice</hi> of the <hi>Doctrine of the Croſs,</hi> yet hath very pleaſantly, and indeed ſoundly conſuted the whole Croud of all his Brethrens Arguments; and thereby to their great grief bereaved them of all their Topicks, where<g ref="char:EOLhyphen"/>with they were uſed to blaſpheme God in the Pulpits on their Mock-Thankſ<g ref="char:EOLhyphen"/>giving-Days. Nor doth his Performance ſeem any way diſpleaſing even to the Government it ſelf: For though his Book was preſented openly at the Parliament-Door, yet it not only ſtands uncenſured, but is thought to have been the great occaſion, that the <hi>Salisbury Dictator</hi>'s Book was doom'd to be
+<pb n="10" facs="tcp:61848:6"/>
+burnt by the hands of the common Hangman. But to make ſome amends for this triumphant Squander he hath ſet up a Plea of his own; and indeed to do him juſtice, he hath bid the faireſt to ſet the preſent Government up<g ref="char:EOLhyphen"/>on ſom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bottom, if it could be poſſibly ſet on any: For if he could make it appear, that the late Proceedings were warranted by our Conſtitutions, he would ſpeak more to the purpoſe than all that hath been ſaid hitherto; but I doubt not but to make it appear, that our Conſtitutions utterly over<g ref="char:EOLhyphen"/>throw his Plea.</p>
+            <p>Now this knocking Argument, which will ſuffer nothing to ſtand before it, is only <hi>Abdication</hi> ſtill; but then it is indeed a Paſſive Abdication, where<g ref="char:EOLhyphen"/>in the Perſon abdicated is a Sufferer, and is abdicated not by his own <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, but by another, who hath a certain Right in him, and Superiority over him; as a Father is ſaid <hi>abdicare Filium.</hi> He ſeems inclinable rather to call it Abrogation, than Abdication; a Word which ſeems harſh with reſpect to Perſons, though proper as to Laws; and yet in the Verb is ſometimes uſed in that Senſe by later Hiſtorians; but <hi>abdicare</hi> properly reſpects Perſons. However to his purpoſe he tells us, <hi>That the People of</hi> England <hi>did actually abrogate or dethrone King</hi> James <hi>the Second for Miſgovernment, and promoted the Prince of</hi> Orange <hi>in his ſtead.</hi> By the <hi>People</hi> I ſuppoſe he means not the diſ<g ref="char:EOLhyphen"/>ſuſive Body, but their Repreſentatives; for as the former ſeems impracti<g ref="char:EOLhyphen"/>cable, ſo it is evident that the Feat was done by what they called a <hi>Conven<g ref="char:EOLhyphen"/>tion;</hi> and afterwards ratified by what they call a <hi>Parliament</hi> But herein he and his Maſters cannot agree; ſor they put it upon an Active Abdicati<g ref="char:EOLhyphen"/>on, which <hi>Julian</hi> ſeems by no means willing to allow: For they ſay expreſly, <hi>That King</hi> James <hi>abdicated the Government, and that thereby the Throne became vacant.</hi> So that all they pretend to is to ſupply a Vacancy, (whether there can be any ſuch thing by our Conſtitutions in our Government, I do not here diſpute,) and provide a Remedy againſt a grand defect, when there was no King in <hi>Iſrael;</hi> and in that very place, where he cites the Word <hi>abdicate</hi> in <hi>Tully,</hi> it is taken in an Active Senſe: For after they had driven away their Kings, the higheſt ſhare of the Regal Power was conferred on the Conſuls; and when <hi>Mark Anthony</hi> offered a Crown to <hi>Caeſar,</hi> if he did not <hi>expreſly,</hi> yet he <hi>effectually</hi> renounced his Conſulſhip: For had <hi>Caeſar</hi> ac<g ref="char:EOLhyphen"/>cepted it, he could no longer have been the Conſul of a popular State, but muſt thenceforth have acted by Authority ſrom <hi>Caeſar,</hi> or not at all: So that this would have been no Forſeiture, but a real giving up his Power. But contrary her<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to Mr <hi>Johnſon</hi> ſairly makes King <hi>James</hi> tenacious enough of his Authority, and tells us, that the People <hi>abrogated and dethroned him;</hi> a Power which the Convention knew not of, nor did ſo much as pretend to: they had done wiſely, if they had conſulted this Learned Man to underſtand their own Power, before they had gone about their work. For though he contradicts them, yet he makes them much greater than they were aware of; and hath not only ſet the Subjects above the Sovereign, but hath ad<g ref="char:EOLhyphen"/>vanced the Houſe of Commons into the place of the Almighty God of Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="11" facs="tcp:61848:6"/>
+giving them Power <hi>to pull down and ſet up Kings,</hi> as they ſhall <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and convenient.</p>
+            <p>But I hope we are not ſo bound to follow Mr. <hi>Johnſon</hi> with an <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith, but that we may examine upon what Grounds he hath given Subjects ſuch a Paramount Authority over their Sovereign: And for this he urges in the firſt place, a Meſſage to King <hi>Richard</hi> the Second, then at <hi>El<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham,</hi> wherein his Parliament averrs, that in the caſe there mentioned, it is law<g ref="char:EOLhyphen"/>ful for them <hi>ipſum Regem de regali ſolio abrogare, &amp; propinquiorem aliquem de ſtirpe regia loco ejus in Regni ſolio ſublimare:</hi> And for this Power in the ſame Meſſage they plead only an <hi>unknown Statute,</hi> and the infamous Precedent, and Larbarous uſage of <hi>Edward</hi> the Second. Had not Diſcontent and Anger blinded them, they would have been aſhamed of their Precedent; and for their Statute, neither they nor any other have tranſmitted it to us: So that it ſeems they durſt not truſt any with the examination of it. But, if he pleaſe, to make amends for that Defect, I will recommend to Mr. <hi>Johnſon</hi>'s ſecond Thoughts a known Statute in the Reign of the ſame King <hi>Richard</hi> the Second; wherein it is judged <hi>High-Treaſon for any Perſon to compaſs the King's Death, to d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſe him, or make War againſt him within the Realm, or to render up his Homage,</hi> 21 Ric. 2. Where we ſhall find his Statute I know not; but this is to be found in our Statute Book, and in the ſame King's Reign, againſt whom he ſets up a contrary Plea: If no Subject can render up his Homage, (which by the way I take to be much the ſame with Dr. <hi>Burnet</hi>'s <hi>transferring his Allegiance,</hi> wherein of late he hath had too ma<g ref="char:EOLhyphen"/>ny Followers,) nor raiſe War againſt his Prince, nor depoſe him, without being condemned by the Law for a Traitor; I would fain know how he will reconcile his unknown Statute to this known one.</p>
+            <p>We are hard put to our Shifts when we are forced to run eight hundred Years backwards for a piece of a Sentence that may ſeem to look favourably on our Cauſe; And what good at laſt will King <hi>Alfred</hi>'s Stile do him, <hi>Dei Gratia &amp; Benevolemia Weſt-Saxonicae Gentis?</hi> I confeſs he has a hard Task, and bad Game to play, who, through the Artifices of deſigning Knaves, la<g ref="char:EOLhyphen"/>bours under the ill Opinion and hard Thoughts of his Subjects; and it was a ſingular Happineſs to King <hi>Alfred,</hi> that he had the <hi>Good Will</hi> and the very Hearts of his People: But though King <hi>Alfred</hi> for his Piety, Juſtice, and Bravery, might ſtand for an eternal Pattern to all Kings that come after him; yet no Perſon that ever ſat on the <hi>Saxon</hi> or <hi>Engliſh</hi> Throne ever acted with a freer or fuller Power than he did, as will plainly appear to any that read his Hiſtory: Nor indeed was it poſſible for him to have done thoſe great Things which he did, had he been ſhackled with thoſe Fetters which our Demigogues endeavour now to hang upon Kings, with pretence indeed to curb their Extravagancies, and reſtrain their exorbitant Power, but with a real deſign to drive out all Kings, and introduce a Democracy. nick-named a Common-wealth, the moſt unquiet, troubleſome, and moſt arbitrary and tyrannical of all Governments.</p>
+            <p>
+               <pb n="12" facs="tcp:61848:7"/>
+But to what purpoſe is all this Stuff? Are we to judge of our Conſtitu<g ref="char:EOLhyphen"/>tions by the blind Tale of a little Hiſtorian, or the contradictory Saying of an old Moth-eaten Lawyer, who wrote in di<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icult Times, trod upon Thorns, and was under a kind of Neceſſity to write ſo, as that he might avoid the Rage of the ſeveral incenſed Parties? What a woful Condition are the People of <hi>England</hi> in, if they muſt look five, ſix, ſeven, or eight hundred Years downward for what they are to do now, and to learn where<g ref="char:EOLhyphen"/>in and how far they are to obey their King? Such Things fall in few Hands, and are read by fewer, and perhaps well conſidered by feweſt of all. Will Mr. <hi>Johnſon</hi> have the preſent State of Affairs redu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to what was ſo long ſince? Or will he be content that his Almighty Houſe of Commons ſhould be l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id aſide, becauſe there was no ſuch Houſe at the time from whence he ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cheth ſeveral of his Authorities, or at leaſt not ſuch a Houſe as is now under the pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſent Conſtitutions? And therefore I muſt beg his Pardon, if in this caſe I little regard his far-fetch'd Stories, and am bold to tell him, that we are not to be ruled or guided by odd Remnants of Antiquity in this matter, but by our preſent Conſtitution; and if he can make that agree with his Old Stories, he will go near to carry the Cauſe; but if he cannot, then both he and all the Revolutioniſts will ſtand for ever condemned by it.</p>
+            <p>Now I know not how to come to the knowledg of our Conſtitutions better than by our Laws; and then for a Proteſtant Kingdom, it may be convenient to look ſo high as the firſt eſtabliſhment of Religion under that odd Title, and to compare and view the agreement of our Laws all along from the firſt enterance of the Proteſtant Religion to the very time of King <hi>James</hi>'s pretended A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dication. And here, if I go ſo high as <hi>Henry</hi> the 8th, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I think I need go no farther than Queen <hi>Elizabeth,</hi> and ſo trace Things to our own Time, we ſhall thence learn the preſent Obligations we lay un<g ref="char:EOLhyphen"/>der, when this Revolution came upon us.</p>
+            <p>I am not willing to create a Quarrel, whether <hi>Henry</hi> the 8th were Papiſt or Proteſtant; I will freely give the Papiſts my ſhare in him: For he that ſo <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obb'd the Churches, that many Pariſhes have not Revenues to find a Mi<g ref="char:EOLhyphen"/>niſter Bread; and burnt Proteſtants becauſe they would not become Papiſts; I think is much fitter for them, than for us: But be he what he will, I can<g ref="char:EOLhyphen"/>not find that either he or his Parliament owned Mr. <hi>Johnſon</hi>'s Doctrine. In the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th of his Reign, <hi>cap.</hi> 12. you will find it thus Enacted. <q>Where by divers ſundry old Authentick Hiſtories and Chronicles, it is manifeſtly declared and expreſſed, That this Realm of <hi>England</hi> is an Empire, and ſo hath been accepted in the World, governed by <hi>one <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upream Head and King,</hi> having the Dignity and Royal Eſtate of the Imperial Crown of the ſame; unto whom a Body Politick, compact of all ſorts and degrees of People, divided in Terms, and by Names of Spirituality and Temporality, been bound<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and owen to bear, <hi>next to God,</hi> a natural and humble Obedience.</q> Here a Parliament declares him <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> ſubjects him to none <hi>but God<g ref="char:punc">▪</g>
+               </hi> and
+<pb n="13" facs="tcp:61848:7"/>
+in the next following Words gives him <hi>plenary, whole, and intire Power, Pre-eminence, Authority, Prerogative and Juriſdiction.</hi> And this they declare to be no new thing but to be taught by old Hiſtories and Chronicles<g ref="char:punc">▪</g> whoſe authentickneſs they vouch. Now one would think that ſuch authen<g ref="char:EOLhyphen"/>tick Hiſtories, and ſuch Vouchers, ſhould make a better Authority th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Mr. <hi>Johnſon</hi>'s <hi>Knighton.</hi> But it is ſo well known what Authority <hi>Henry</hi> the 8th challenged, and was owned by his Subjects, that I need not inſiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon it: Had our Author come abroad then with his new Inventions, he himſelf perhaps would have found little better uſage than Dr. <hi>Burnet</hi>'s <hi>Paſtoral Letter.</hi>
+            </p>
+            <p>As for King <hi>Edward</hi> the Sixth, we do not find that he any ways departed from the Authority his Father left him; but though a Prince of great Hopes, and pious Inclinations, yet by the Seducements of ſome ill Perſons about him, entered farther upon the Eccleſiaſtical Authority than ever his Father did; how juſtly I leave others to judge, I cannot commend it. And then for Queen <hi>Mary, all Dignities, Prerogative Royal, Power, Pre-eminence, Priviledges, Authorities, and Juriſdictions,</hi> are as <hi>fully, wholly, abſolutely, and entirely</hi> inveſted in her, as in her Father, or any her Predeceſſors, by the Statute 1 <hi>Mariae, Par. Sec. Cap.</hi> 1.</p>
+            <p>To avoid tediouſneſs, I ſhall only touch upon ſuch Statutes as ſpeak home to this purpoſe; and now we come to that which all ſorts of Perſons, ex<g ref="char:EOLhyphen"/>cept Papiſts, as with one Month ſtile the beſt Reign: I mean the admired times of Queen <hi>Elizabeth,</hi> in the firſt Year of whoſe Reign the Oath of Su<g ref="char:EOLhyphen"/>premacy was enacted, or rather revived, in which amongſt others are theſe two things aſſerted; 1ſt. <hi>That the Queen's Highneſs is the only Supream Go<g ref="char:EOLhyphen"/>vernour of this Realm, and of all other her Highneſs's Dominions and Countries, as well in all Spiritual or Eccleſiaſtical Things or Cauſes, as Temporal.</hi> 2dly. <hi>That no Foreign Prince, Perſon, I relate, State or Potentate, hath, or <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught to have any Juriſdiction, Power, Superiority, Pre-eminence or Authority Eccleſiaſtical or Spiritual, within this Realm.</hi> By the firſt her own Subject's Hands are tied up; by the ſecond the Uſurpations of Foreignes are excluded. She could not be <hi>Supream,</hi> much leſs <hi>only Supream,</hi> if any Men or body of Men in her own Dominions had a Superior Power to depoſe her; and it being not only their Duty, but they alſo farther obliged by Oath to aſſiſt and deſend her in this Supremacy, and this Oath and Statute being tranſmitted in force to all her Succeſſors, any attempt by them to the contrary muſt neceſſarily be in<g ref="char:EOLhyphen"/>valid and unlawſul: And thoſe who have a mind to know the Penalties which the Law inſticts on Offenders in this kind, may at their leiſure read them in the ſame Statute.</p>
+            <p>Let us now deſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d from the Reign of Queen <hi>Elizabeth</hi> to that of King <hi>James</hi> the Firſt; and in the <hi>Act of Rec<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, Anno</hi> 1. <hi>Jac.</hi> 1. <hi>cap.</hi> 1. after a long, dutiful, and humble Pr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mble, it is thus ſaid: <q>We (being bounden thereunto both by the Laws of God and Man,) do recognize and acknow<g ref="char:EOLhyphen"/>ledg, (and thereby expreſs our unſpeakable Joys,) That immediately upon
+<pb n="14" facs="tcp:61848:8"/>
+the Diſſolution and Deceaſe of <hi>Elizabeth,</hi> late Queen of <hi>England,</hi> the Im<g ref="char:EOLhyphen"/>perial Crown of the Realm of <hi>England,</hi> and of all the Kingdoms, Domi<g ref="char:EOLhyphen"/>nions, and Rights belonging to the ſame, did by inherent Birth-right, and lawful and undoubted Succeſſion, deſcend and come to your moſt excellent Majeſty, as being lineally, juſtly, and lawfully next and ſole Heir of the Blood-Royal of this Realm, as is aforeſaid: And that by the Goodneſs of God Almighty, and lawful Right of Deſcent, under one Imperial Crown, your Majeſty is of the Realms and Kingdoms of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> the moſt potent and mighty King, and by God's Goodneſs more able to protect and govern us your Loving Subjects in all Peace and Plenty, than any of your noble Progenitors; and thereunto we moſt humbly and faithfully do ſubmit, and oblige our Selves, our Heirs, and Poſterities for ever, until the laſt drop of our Bloud be ſpent: And do beſeech your Majeſty to accept the ſame, as the Firſt-Fruits in this High Court of Par<g ref="char:EOLhyphen"/>liament, of our Loyalty and Faith to your Majeſty, and your Royal Progeny and Poſterity for ever. Which if your Majeſty ſhall be pleaſed (as an Argument of your gracious Acceptation) to adorn with your Ma<g ref="char:EOLhyphen"/>jeſty's Royal Aſſent, (without which it can neither be compleat and per<g ref="char:EOLhyphen"/>fect, nor remain to all Poſterity, according to our moſt humble Deſires, as a Memorial of your Princely and tender Affection towards us;) we ſhall add this alſo to the reſt of your Majeſty's unſpeakable and ineſtima<g ref="char:EOLhyphen"/>ble Benefits.</q> Here they plainly acknowledg theſe two things; 1ſt. That the Crown deſcends by Proximity of Bloud, and that <hi>immediately,</hi> even before any Ceremony of Coronation or otherwiſe; ſo that there can be no <hi>Inter-regnum</hi> or <hi>Vacancy</hi> of the Throne: And accordingly it is a Maxim in Law, that <hi>Rex non moritur.</hi> 2dly. That the aſſent of the King, is that which gives the Life, Being, and Vigour to Laws, without which they are of no force. Now how the late Proceedings which were directly againſt both theſe can be valid, ought to be made very clear, at leaſt it ought to be better proved than by the capricious Opinion of one ſingle private Per<g ref="char:EOLhyphen"/>ſon againſt a full and lawful Parliament.</p>
+            <p>In the Third Year of the ſame King <hi>James</hi> was Enacted the Oath, com<g ref="char:EOLhyphen"/>monly called the Oath of Allegiance, (not but that the ſame thing was practiſed before, though not in the ſame Words;) which may be tendered to any above the Age of eighteen; which reſtraining the Subject not only from depoſing, but from offering the leaſt violence or harm to the King, and obliging all Subjects ſo faithfully to aſſiſt their King againſt both Do<g ref="char:EOLhyphen"/>meſtick Traitors and Foreign Uſurpers; and being ſo directly contrary to, and utterly inconſiſtent with Mr. <hi>Johnſon</hi>'s Doctrine, I think fit to inſert it here at large.</p>
+            <p>
+               <hi>I</hi> A B <hi>do truly and ſincerely acknowledg, profeſs, teſtifie, and declare in my Conſcience, before God and the World, That our Sovereign Lord King</hi> James <hi>is lawful and rightful King of this Realm, and of all other. His Majeſty's Dominions
+<pb n="15" facs="tcp:61848:8"/>
+and Countries; and that the Pope neither of himſelf, nor by any Authority of the Church or See of</hi> Rome, <hi>or by any other means with any other, hath any Power or Authority to depoſe the King, or to diſpoſe of any of his Majeſty's Kingdoms and Dominions or to authoriſe any Foreign Prince to invade or annoy him, or his Coun<g ref="char:EOLhyphen"/>tries, or to diſcharge any of his Subjects of their Allegiance and Obedience to his Majeſty, or to give licence or leave to any of them to bear Arms, raiſe Tumults, or to offer any Violence or Hurt to his Majeſty's Royal Perſon, State or Government, or to any of his Majeſty's Subjects, within his Majeſty's Dominions.</hi>
+            </p>
+            <p>
+               <hi>Alſo I do ſwear from my Heart, That notwithſtanding any Declaration, or Sentence of Excommunication or Deprivation made or granted, or to be made or granted, by the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope or hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Succeſſors, or by any Authority derived, or pretended to be derived from him, or his See, againſt the ſaid King, his Heirs or Succeſ<g ref="char:EOLhyphen"/>ſors; or any Abſolution of the ſaid Subject<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from their Obedience. I will bear Faith and true Allegiance to his Majeſty, his Heirs and Succeſſors, and him and them will defend to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he uttermoſt of my Power, againſt all Conſpiracies and Con<g ref="char:EOLhyphen"/>tempts whatſoever, which ſhall be made againſt his or their Perſons, their Crown and Dignity by reaſon or colour of any ſuch Sentence or Declaration, or</hi> otherwiſe, <hi>and will do my beſt endeavour to diſcloſe, and make known, unto his Majeſty, his Heirs and Succeſſors, all Treaſons, and Traiterous Conſpiracies, which I ſhall know or hear of to be againſt him, or any of them.</hi>
+            </p>
+            <p>
+               <hi>I do farther ſwear, That I do from my Heart abhor, deteſt, and abjure, as Impious, and Heretical, this damnable Doctrine and Poſition, That Princes which be excommunicated or deprived by the Pope, may be depoſed or murdered by their Subjects, or any other whatſoever.</hi>
+            </p>
+            <p>
+               <hi>And I do believe, and in Conſcience am reſolved, that neither the Pope, nor any Perſon whatſoever, hath Power to abſolve me of thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Oath or any part thereof; which I acknowledg by good and full Authority to be lawfully miniſtred unto me: And do renounce all Pardons and Diſpenſations to the contrary. And all theſe things I do plainly and ſincerely acknowledg and ſwear, according to theſe expreſs Words by me ſpoken, and according to the plain and common Senſe and <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding of the ſame Words, without any Equivocation, or Mental Evaſion, or Secret Reſervation whatſoever. And I do make this recognition and acknowledg<g ref="char:EOLhyphen"/>ment heartily, willingly, and truly, upon the true Faith of a Chriſtian:</hi> So help me God.</p>
+            <p>If fooliſh wicked Men did not make their Reſervations, and endeavour to put Tricks even upon God, whom they call to be a Witneſs of the Truth of what they ſwear, and an Avenger if they ſwear falſly, there would need nothing more to co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in Subjects in their Loyalty: But ſtill to improve this matter farther, 7 <hi>Jac.</hi> 1. <hi>cap.</hi> 6. an Act tells us, That this Oath <hi>tends only to the Declaration <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f ſuch Duty, as every true and well-affected Subject, not only by Bond of Allegiance, but alſo by the Commandment of Almighty God, ought to bear to his Majesty his Heirs and Succeſſors.</hi> So that though this Act ob<g ref="char:EOLhyphen"/>liges all Perſons of the Age of eighteen Years, upon pain of incurring a
+<pb n="16" facs="tcp:61848:9"/>
+               <hi>Praemun<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> to take this Oath if tendered; yet it gives us to underſtand that it is only a ſuper added Obligation to ſecure our law<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul Prince, and keep the Subject to his Duty; and that though the Oath be not taken, yet the natural Allegiance of every Subject binds him to the ſame thing: And though it was principally, yet not only made with relation to the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> but to all others, as expreſſing that Allegiance which obliges Subjects to ſtand by their Prince againſt all his Oppoſers, Enemies, and Underminers whatſoever. I do not know that any Foreign Powers, (the Pope excepted,) ſo much as pretend to a Right to depoſe lawful Princes; nor did even the Prince of <hi>Orange,</hi> when he came over, pretend to any ſuch Power by his Declaration; and it ſeems to me to be no better than an im<g ref="char:EOLhyphen"/>pudent Contradiction, when Men acknowledg that no Foreign Power can depoſe a lawful Prince, to ſay, that his own Subjects, who by the Laws of God and Man owe him Allegiance, and are bound with the utmoſt hazard of their Lives to defend him, may do it. And it ſee us to me worth Ob<g ref="char:EOLhyphen"/>ſervation, that Dr. <hi>Stillingfleet</hi> in his Preface to the <hi>Jeſuit's Loyalty,</hi> proves, that the Pope depoſes Princes upon Common-wealth Princip<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es: Now I would willingly know upon what Principle the Doctor hath joined with the Revolutioniſts in depoſing his Prince. If he joins with Mr. <hi>Johnſon</hi> in his Argument, it is Common-wealth all over; if he take up with the other Arguments of his Brethren, <hi>Julian</hi> hath fairly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſs'd them out of Doors. I did once think that Men who raved againſt the Evaſions, Equivocations, Mental Reſervations, Diſpenſations, and other deceitful Arts and Tricks of the Jeſuits, had been Men of Plain dealing, Simplicity and Integrity; But ſince I have diſcovered, that thoſe very Men, who made the <hi>depoſing Power</hi> their Bell-wether Argument againſt the Papiſts, were at that ſame time buſie in contriving how to depoſe their own lawful Prince: I have been prone to think, that if you ſhould take a <hi>Latitudinarian Proteſtant,</hi> and a <hi>Jeſuit,</hi> and put them both in a Bag, and ſhake them well together, it would be hard to determine, whether he that came out <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt or laſt was the greateſt Knave.</p>
+            <p>After <hi>the deplorable Conſuſions, Diviſions, Wars, Devaſtations, and Op<g ref="char:EOLhyphen"/>preſſions,</hi> (they are the Words of the Act,) wherewith theſe Kingdoms were haraſſed in the former Rebellion, (the Wickedneſs of which no Man would have thought could have been exceeded, had he not ſeen this,) the People, j<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded with their own Folly and Villany, and ſeeing no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of the Rapine, Madneſs and Cruelty of their Oppreſſors, call Home their Lawful Sovereign King <hi>Charles</hi> the Second: And in the 12th Year of his Reign, (but of his actual governing the firſt,) an Act paſſed, wherein his <hi>undoubted Hereditary, Sovereign and Regal Authority</hi> was acknowledged; a <hi>perpetual</hi> Thankſgiving for his Reſtoration ordered to be annually and pub<g ref="char:EOLhyphen"/>lickly kept: All Miniſters are thereby bound to celebrate it, and to give God Thanks, and publickly declare <hi>the extraordinary Mercies, Bleſſings and Deliverances received;</hi> all People are bound on that Day to repair to ſome
+<pb n="17" facs="tcp:61848:9"/>
+Church or Chappel, where the Service appointed may be had; all Mini<g ref="char:EOLhyphen"/>ſters to give notice of it the Lord's Day before; and upon the Day to read the Act <hi>pablickly and diſtinctly</hi> to the People: And this is again confirmed the 13th <hi>Car.</hi> 2. <hi>cap.</hi> 11. Certainly no Man that had a Grain of Honeſty could think that any People could be guilty of ſuch fulſome Hypocriſie, and ſuch downright mocking of God, as to keep a publick Thankſgiving for the reſtoring one Brother to his Right, and at the ſame time to plead the lawfulneſs of driving away and keeping out the other Brother by force of Arms, when the Right and Title of both Brothers was exactly the ſame. By what Authority do they call the other Rebels, when they do the ſame thing? Or is it a wicked thing in Presbyterians and Independents to de<g ref="char:EOLhyphen"/>poſe Kings, but lawful and commendable in Latitudinarians?</p>
+            <p>But if forty Parliaments had laid their Heads together to ſecure their Sovereign from any Violence or Harm againſt any Man, Men, or body of Men whatſoever of his own Subjects, or moſt effectually to confute Mr. <hi>John<g ref="char:EOLhyphen"/>ſon</hi>'s Argument; I cannot imagine how they could do it in more apt, pro<g ref="char:EOLhyphen"/>per and full terms, than is done by the Act 12 <hi>Car.</hi> 2. <hi>cap.</hi> 30. wherein it is declared, <hi>That by the undoubted and fundamental Laws of this Kingdom, neither the Peers of this Realm, nor the Commons, nor both together in Parliament, nor the People collectively or repreſentatively, nor any other Perſons whatſoever, ever had, have, hath, or ought to have, any Coercive Power over the Perſons of the Kings of this Realm.</hi> Here plainly by a full and free Parliament, and by univerſal conſent, all ſorts and all bodies of Men are reſtrained from uſing any Violence to their King; and this not only at preſent enacted, but <hi>decla<g ref="char:EOLhyphen"/>red</hi> to be ſo by the <hi>undoubted and fundamental Laws of this Kingdom.</hi> If this be true, <hi>Bracton</hi> muſt be miſtaken; Or ſhall we eſteem his Authority above that of the High Court of Parliament? Or what ſhall become of his <hi>reſpec<g ref="char:EOLhyphen"/>tuetur ad Magnam Curiam,</hi> when that very Court in this caſe denies it? And that too upon this very account, that the <hi>undoubted and fundamental Laws</hi> are againſt it.</p>
+            <p>There are many other Statutes which ſeem to be purſuant of this; as 13 <hi>Car.</hi> 2. <hi>cap.</hi> 1. where that Opinion is condemned, <hi>That both Houſes of Parliament, or either of them, have a Legiſlative Power without the King;</hi> by which alone all the Acts of the Convention are overthrown, and all the pre<g ref="char:EOLhyphen"/>tended Authorities thereupon founded. Hence in the ſame Act they pro<g ref="char:EOLhyphen"/>ceed to condemn the Proceedings in the former Rebellion, declaring, <q>That the Oath uſually called the <hi>Solemn League and Covenant,</hi> was in it ſelf an unlawful Oath, and impoſed upon the Subjects of this Realm againſt the fundamental Laws and Liberties of this Kingdom; and that all Orders and Ordinances, and pretended Orders and Ordinances, of both or either Houſes of Parliament, for impoſing of Oaths, Covenants or Engagements, levying of Taxes, or raiſing of Forces and Arms, to which the Royal Aſſent, either in Perſon or by Commiſſion, was not expreſly had or given, were in their firſt creation and making, and ſtill are, and ſo ſhall be taken
+<pb n="18" facs="tcp:61848:10"/>
+to be, null and void to all intents and purpoſes whatſoever.</q> Now, (as if they had had a Spirit of Propheſie,) this Act ſeems to be more ſtrongly level<g ref="char:EOLhyphen"/>led againſt the <hi>Convention</hi> than the <hi>long Parliament;</hi> for the long Parliament were called by the King's Writ, and by his aſſent to a Bill were continued till they ſhould diſſolve themſelves; but the Convention was a Muſhroom, ſprung up of it ſelf, and remaining without root or foundation: They were ſo far from having any colour of Law to warrant them, that when they had traiterouſly driven away their King with Lies, Noiſe, and Threats; they met contrary to all Law, at the invitation of a Stranger, their King's Ene<g ref="char:EOLhyphen"/>my, againſt whom they ought to have defended him; and therefore were Traitors in that very Act: The long Parliament indeed boldly aſſumed the whole Authority to themſelves, but withal they ſeemed not before hand to be deſtitute of a very conſiderable Legal Authority; but the Convention as they had no manner of Authority in that caſe, ſo they pretend to give the Supream Authority to one, who as a Stranger had leſs Authority than them<g ref="char:EOLhyphen"/>ſelves: But neither could they give what they never had, nor he receive from them what they had not to give; and therefore this Act as ſtrongly makes null and void all the Oaths, Acts, Orders, Ordinances and Proceedings whatſoever of the <hi>preſent Government,</hi> as they call themſelves, as it did the Solemn League and Covenant, and other the proceedings of the <hi>Rump Par<g ref="char:EOLhyphen"/>liament,</hi> and <hi>Oliv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> the Firſt.</p>
+            <p>13 <hi>Car.</hi> 2. <hi>cap.</hi> 6. There is an Act, wherein it is declared, <q>That within all his Majeſty's Realms and Dominions, the ſole Supream Government, Command, and Diſpoſition of the Militia, and of all Forces by Sea and Land, and of all Forts and places of Strength, is, and by the Laws of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ever was, the undoubted Right of his Majeſty, and his Royal Prede<g ref="char:EOLhyphen"/>ceſſors, Kings and Queens of <hi>England;</hi> and that both or either of the Hou<g ref="char:EOLhyphen"/>ſes of Parliament cannot, nor ought to pretend to the ſame; nor can, nor lawfully may, raiſe or levy any War, offenſive or defenſive, againſt his Majeſty, his Heirs or lawful Succeſſors, <hi>&amp;c.</hi>
+               </q> And in the ſame Act the grounds of contrary proceedings they call <hi>Rebellious Principles;</hi> the Govern<g ref="char:EOLhyphen"/>ments ſet up againſt the lawful King, they ſtile <hi>uſurped Governments;</hi> and the effect of ſuch doings they ſay was <hi>almoſt the Ruine and Deſtruction of this Kingdom.</hi> But what was wanting then, we have juſt cauſe to fear will be made up now; we are within a little of leaving out the <hi>almoſt,</hi> and are upon the very brink of <hi>utter</hi> Ruine and Deſtruction. Now if the <hi>ſole Su<g ref="char:EOLhyphen"/>pream</hi> Government was in King <hi>James,</hi> and the whole power and diſpoſition of the Militia, and all Forts and places of Strength, were undoubtedly his Right, and no War offenſive or defenſive may be raiſed againſt him; then all thoſe places were wrongfully taken from him, and all the preſent Rebel<g ref="char:EOLhyphen"/>lions Proceedings and Uſurpations are as void as the former.</p>
+            <p>It were no hard matter to heap up many other Statutes to this purpoſe, but I think theſe ſufficient; for this was the Conſtitution when King <hi>Charles</hi> the Second died, this was the ſtate of the Government when King <hi>James</hi>
+               <pb n="19" facs="tcp:61848:10"/>
+the Second his lawful Succeſſor entred upon it; and all theſe Acts were in their full force when he was driven away; and they aſſert, maintain, keep up and ſecure his Right and Supream Power, as well againſt his own Sub<g ref="char:EOLhyphen"/>jects as Foreigners: And therefore the Supremacy, Authority and Right being ſtill his, as all proceedings againſt him are null in Law, and condem<g ref="char:EOLhyphen"/>ned by it; ſo all Perſons thus unlawfully diveſting him of that his rightful Supremacy and Authority, have incurred the Centure of the fore cited Ca<g ref="char:EOLhyphen"/>non made purſuant to theſe Conſtitutions, and muſt be adjudged to ſtand <hi>ipſo facto</hi> excommunicate.</p>
+            <p>I am not inſenſible, that by a certain ſide-wind an Objection may be here brought in, which both <hi>Prerogative</hi> and <hi>Commonwealth-men</hi> have (as it ſer<g ref="char:EOLhyphen"/>ved their Turn) inſiſted on, <hi>That the Statute-Law is ſuper-induced, and to be in force according to the tenour of the old preceding Laws and Cuſtoms of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and if repugnant to them void; if obſcure and doubtful, to be explained by them.</hi> And I am informed that the <hi>Paltry,</hi> (I ſhould have ſaid the <hi>Poultrey) Doctor,</hi> in his private Pleas in making <hi>Converts,</hi> or rather <hi>Perverts,</hi> doth farther alledg, <hi>That the Statute-Law is utterly inſigniſicant in it ſelf, and that we are wholly to be guided by antecedent Laws and Cuſtoms.</hi> Whether he means by this to warrantize <hi>Rebellion</hi> by the <hi>worſt of Precedents,</hi> or would have all ſwallowed up in the <hi>Prerogative,</hi> I cannot tell; for he is as much for <hi>William,</hi> as he was againſt King <hi>James;</hi> ſo tempting a thing is even the bare hopes of a Biſhoprick. But againſt this I deſire theſe few things may be conſidered: 1ſt. I humbly requeſt this bold <hi>Doctor,</hi> or any of his Complices, to tell me in plain Engliſh, Whether the auguſt Court of Parliament, which is brought together with ſo much Charge, appears in ſuch State, and is ſtiled the high<g ref="char:EOLhyphen"/>eſt Court in the Kingdom, ſits in all that Formality and Solemnity only to deviſe <hi>New-Nothings,</hi> or to make Rattles and Baubles for Fools and Chil<g ref="char:EOLhyphen"/>dren? For if his Objection be true, I ſee not what they do more; but muſt be the meereſt piece of Pageantry that ever was. 2dly. It is obſervable that this Argument, if not firſt trump'd up, yet was moſt warmly mana<g ref="char:EOLhyphen"/>ged in the time of King <hi>Charles</hi> the Firſt, when the matter of the <hi>Petition of Right</hi> was under debate; and though they threw Duſt in one another's Eyes, and amuſed the Kingdom with ſine Harangues about old blind antecedent Laws, which no Body knew what to make of; yet when they come to pen the Statutes, they fairly leave them all to ſhift for themſelves, and found it wholly upon preceding Statutes, as any Man may there ſee to his ſatisfac<g ref="char:EOLhyphen"/>tion, 3 <hi>Car.</hi> 1. <hi>in initio.</hi> 3dly. That the fore-cited Statutes are ſo far from expreſſing any thing obſcurely or doubtfully, that they are as intelligible, plain and eaſie, as if they had been written with a Beam of the Sun. Laſt<g ref="char:EOLhyphen"/>ly, (and which indeed is moſt conſiderable) all, or moſt, and the moſt per<g ref="char:EOLhyphen"/>tinent of the fore-mentioned Statutes, are not meerly conſtitutive, but de<g ref="char:EOLhyphen"/>claratory, not barely telling us what for the future ſhould be Law, but in<g ref="char:EOLhyphen"/>forming us what by the old antecedent Laws were the undoubted Rights of the Crown, and rule of Succeſſion; and indeed I can diſcover but two ways
+<pb n="20" facs="tcp:61848:11"/>
+whereby the Crown can ſucceed according to our Conſtitutions, <hi>viz.</hi> either b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proximity of Blo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in a lineal Succeſſion, or by the laſt Will and Te<g ref="char:EOLhyphen"/>ſtament of the preſent right<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul Prince in Poſſeſſion, ratified in Parliament; both which are mentioned in the Act of Settlement, 35 <hi>Hen.</hi> 8. and made a rule of Succeſſion for ever, 1 <hi>Eliz. cap.</hi> 3. neither of which will do our Adverſaries any Service: And thus I think I have given as fair and full an anſwer to Mr, <hi>Johnſon</hi> as he hath done to the reſt of his Brethren; and the Obſtacles being now removed may juſtly proceed to the Canon, which de<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res all ſuch Perſons as deny the Supremacy of their lawful King to be excommunicate <hi>ipſo facto:</hi> As to which I ſhall conſider theſe ſeveral parti<g ref="char:EOLhyphen"/>culars; Firſt, That this Canon is no Novelty, but purſuant to, and taking pattern from other Canons of the Church of Chriſt, made all along for the ſecurity of Princes. Secondly, What is meant by Excommunication <hi>ipſo facto.</hi> Thirdly, What is the State and Condition of Perſons excommunicate. Fourthly, What ought to be the Behaviour of other Chriſtians towards ſuch as ſtand <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcommunicate. Laſtly, the particular reſtraint here laid, as to reconciling ſuch Perſons who are cenſured by this Canon.</p>
+            <p>As to the firſt, Chriſtianity, which not only teacheth, but obligeth us <hi>to do good for evil,</hi> took care of the Supremacy of the Supream Powers, even when they were Perſecutors; but when Kings and Queens became Nurſing Fathers and Nurſing Mothers, and took the Church into their Protection, defending the Perſons not only as Subjects but Chriſtians, and backing the Canons and Cenſures of the Church with Civil Laws and Penalties; from th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce the Church became bound not only in Duty but in Gratitude to con<g ref="char:EOLhyphen"/>tribute all ſhe could to the protection of that lawful Government, which protected her; and to render the Civil Laws and Penalties more aweful and effectual, did farther enforce them (as occaſion required, but eſpecially for the ſecurity of lawful Princes,) with the Threats and Terrors of Divine Vengeance, which by Authority, committed to her by God, ſhe had power to denounce againſt ſuch Offenders. The Doctrine of Obedience to law<g ref="char:EOLhyphen"/>ful Powers, has been a part of Chriſtianity from its very firſt entrance into the World, even then when it was the greateſt Sufferer under them. Thus our Bleſſed Saviour teacheth the Seditious Jews, <hi>Mat.</hi> 22. 21. <hi>Render unto Caeſar the things which are Caeſar's, and unto God the things that are Gods.</hi> Thus his Apoſtle St. <hi>Paul</hi> to the <hi>Romans,</hi> 13. 1. <hi>Let every Soul be ſubject unto the Higher Powers.</hi> To <hi>Titus,</hi> 3. 1. <hi>Put them in mind to be ſubject to Princi<g ref="char:EOLhyphen"/>palities and Powers, to obey Magiſtrates.</hi> And St. <hi>Peter,</hi> as if he had a mind to confirm the very terms of our Canon, and contradict his pretended Suc<g ref="char:EOLhyphen"/>ceſſor the Pope, gives this Charge, <hi>Submit your ſelves to every Ordinance of Man for the Lord's ſake, whether it be to the King as Supream, &amp;c.</hi> 1 Pet. 2. 13. The looſe Anſwers which have been deviſed to take off the force of theſe Scriptures, and encourage eternal Confuſions, have been of late ſo ſhamefully baſſled by many learned Pens, that I need not concern my ſelf farther with them; only I think it fit they ſhould know what Penalty God's Word hath
+<pb n="21" facs="tcp:61848:11"/>
+aſſigned to Offenders in this kind, which being no leſs than Damnation, I cannot but as a Chriſtian wiſh them Repentance, that if poſſible they may eſcape it; though I cannot without deploring their Condition think of the Obſervation, <hi>That Rebellion in this is as the Sin of Witchcraft, that both Sins do ſo bewitch Men, and carry away their very Hearts and Souls, that they rarely, if ever, think on Repenta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce on this ſide Hell;</hi> and then I fear it will ſtand them in little ſtead, notwithſtanding the comfortable Doc<g ref="char:EOLhyphen"/>trine which their new High-Prieſt hath broach'd, for the benefit of the damned, and to encourage the Living to run the hazard of Damnation.</p>
+            <p>If I ſhould examine how the Church in ſucceeding Times trod in theſe ſteps of our Saviour, and his Apoſtles, it would be a tedious work; and therefore I ſhall only ſubjoin ſome few Citations as a Specimen: And I hope I ſhall be pardoned if I take the liberty to tranſlate, ſince I write only for the Inſtruction of the Ignorant, not for the Information of thoſe who are wiſer than my ſelf. And in that early Col<g ref="char:EOLhyphen"/>lection of Canons, commonly known by the name of the <hi>Apoſtle's Canons,</hi> we find this, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. If any Man, againſt Right, do Wrong to the King or Governour, let him be ſeverely puniſhed; if he be a Clergy man, let him be depoſed; if a Lay man, let him be excommunicated,</hi> Can. 84.</p>
+            <p>In the Fourth Council of <hi>Toledo,</hi> we find both a neat Preamble and ſmart Canon to this purpoſe; thus, <hi>Multarum quippe gentium—tanta extat perfidia, &amp;c.</hi> So falſe <hi>(ſay they)</hi> and perfidious are the Minds of many Men, <hi>that they will not keep that Faith which by Oath they have promiſed to their King, but whilſt with their Mouths they profeſs to ſwear, in their Hearts retain Treachery; for they ſwear Fidelity to their Kings, but break their Oaths, not regarding the Judgment of God denounced</hi> (Jer. 7. 8, <hi>&amp;c.) againſt thoſe who ſwear by the Name of the Lord falſly. What hope can ſuch have in War with their E<g ref="char:EOLhyphen"/>nemies? What other Nations will truſt ſuch in Peace? What League at this rate can hold them? What Pledg or Aſſurance can they give, that they will keep their Faith with their Enemies, when they break that Faith which they have ſworn to their own Kings?</hi> Then follows the Canon. <hi>Whoſoever henceforth, either of us, any of the Spaniſh People, by any Machination or Contrivance, ſhall violate that Oath of Fidelity, which he hath ſworn for the Safety of his Countrey, the State of the</hi> Gothick <hi>Nation, or the Security of his Prince, or ſhall murder his King, or diveſt him of his Authority, or by Tyrannical Preſumption ſhall uſurp the Throne, let him be</hi> Anathema <hi>in the ſight of the Holy Ghoſt, and the Martyrs of Chriſt; and let him be ejected out of the Catholick Church, which he hath profaned by his Perjury; and let him be debarr'd from all Chriſtian Communion; nor let him have any ſhare with the Righteous, but let him be condemned to eternal Puniſhment with the Devil and his Angels.</hi> And then the whole Clergy and People give their Conſent in theſe Words: <hi>Whoſoever ſhall go contrary to this Decree, let him be</hi> Anathema Maranatha, i. e. <hi>let him receive Sentence of Damnation at the Coming of our Lord Jeſus, and both he and his Aſſo<g ref="char:EOLhyphen"/>ciates have their Portion with</hi> Judas Iſcariot. Amen. Certainly Chriſtians had no light Opinion of the Sins of Rebellion and Uſurpation, when they denounce ſuch a dreadful Sentence againſt it; and I think Chriſtianity is ſtill the ſame it ever was, however the Profeſſors of it may be altered.</p>
+            <p>In the Seventh Council of <hi>Toledo, cap.</hi> 1. we have a Conſtitution to our purpoſe in theſe Words; <hi>Sed &amp; quia pleroſque Clericos tantae levitatis interdum pravitatis praeſump<g ref="char:EOLhyphen"/>tive ita elevat,</hi> &amp;c. <hi>But becauſe many Clergy-men are ſo puſſed up with Vanity and Wick<g ref="char:EOLhyphen"/>edneſs,
+<pb n="22" facs="tcp:61848:12"/>
+that unmindful of the gravity of their Order, and their Faith promiſed by Oath, they through a raſh Levity conſent to the ſetting up another King, their lawful King being living, it is ſit that ſuch licentiouſneſs ſhould be altogether taken away, and utterly extirpated out of our Communion: So that if any Lay-man within the bounds of the Countrey of the</hi> Goths <hi>ſhall ambi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iouſly attempt the Crown, and ſhall receive any favour or aſſiſtance from Clergy<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and by ſucceſs<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul Wickedneſs ſhall prevail in his ambitious Attempt; from the time that any Biſhop or Clergyman of what Order ſoever ſhall have involved himſelf in ſuch Crime, it <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him to remain excommunicate for ever.</hi> (I think here is <hi>ipſo facto</hi> Excommu<g ref="char:EOLhyphen"/>nication with a Witneſs.) <hi>But if by the prevailing Wickedneſs of that Prince, with whom <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e unjuſtly agreed, the Biſhop ſhall not be able actually to ſuſpend him from Communion; yet if he over live the ſaid Prince, whoſoever ſhall admit him to Communion (unleſs at the very Hour of Death, and upon ſufficient proof of his true Repentance,) let that Perſon be liable to the aforeſaid Sentence.</hi> Here you may ſee that the Church would not ſuffer even proſperous Villany to reſcue Offenders out of her Hands, but obliged her Members upon the ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Penalty, upon all Opportunities to make them know themſelves. What Le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may for ſeveral reaſons be uſed ſometimes, in ſuch caſes, belongs not to me to determine; only, if any think they may be concerned herein, I wiſh they may ſo think as ſeriouſly to repent, that they may find both God's and his Church's Mercy.</p>
+            <p>From the <hi>Concilium Calcuthenſe,</hi> I ſhall cite only part of a Canon, though the whole is pertinent enough. <hi>Let no Man dare to be privy to the murder of a King, becauſe he i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord's Anoint<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; and if any Man join in ſuch Wickedneſs, if he be a Biſhop or any of the Sacerd<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tal Order, let him be degraded, and removed from the Clergy as</hi> Judas <hi>was from the Apoſtolick Order; and whoever elſe ſhall be conſenting to ſuch a Sacrilegious Fact, he ſhall periſh under the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ternal bond of an</hi> Anathema, <hi>and coupled with the Traitor</hi> Judas <hi>ſhall be burnt in everlaſting Fire; as it is written, not only they who doe, but thoſe who conſent to the doing ſuch Things ſhall not eſcape the Judgment of God.</hi> It is not long ſince, that a wiſe and pious Prince was barbarouſly murdered amongſt us by his own Sub<g ref="char:EOLhyphen"/>jects; and though his Son by the Mercy of God made his eſcape, yet there are many who thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt for his Bloud, which in the eſtimation of God is the ſame thing. To this I will here add part of a Canon of another of our own Councils, <hi>(Vid.</hi> Lind. <hi>l.</hi> 5. <hi>ſol.</hi> 248. <hi>b.) Auctoritate Dei Patris,</hi> &amp;c. <hi>By the Authority of God the Father,</hi> &amp;c.<hi>—we excommunicate all thoſe, who injuriouſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y diſturb the Peace and Tranquillity of our Lord the King; and thoſe who labour unjuſtly to detain the Rights of our Lord the King.</hi> This is a Canon made amongſt our ſelves, and the Book is the great Director of our Eccleſiaſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts at this Day; and if the Rights of a King be not only detained, but wholly ſwallow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up by ſome at this time, we muſt never believe matter of Fact more; and as for the Cur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, let them take it to whom it belongs. Indeed, while the Authori<g ref="char:EOLhyphen"/>ty of God was reverenced in the Cenſures of the Church, Kings were very deſirous that the Churches protected by them ſhould contribute to the Security of the Royal Authority, by a d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nunciation of Spiritual Judgments on ſuch as ſhould any ways be injurious to it: Thus at the Requeſt of K. <hi>Edward,</hi> a Conſtitution was made to this purpoſe, by <hi>John Stra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford</hi> Arch-biſhop of <hi>Canterbury;</hi> as is to be ſeen, <hi>Lind. fol.</hi> 254 <hi>b.</hi> But a very <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emarka<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le Inſtance in this kind the <hi>Concilium Engilhelmenſe,</hi> under <hi>Lewis</hi> the 4th, affords us, <hi>C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 1. <hi>De hinc ex Seſſionis ſuae loco ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſub<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gens,</hi> &amp;c. <hi>Then the Glo<g ref="char:EOLhyphen"/>rious
+<pb n="23" facs="tcp:61848:12"/>
+King</hi> Lewis <hi>riſing from his Seat,—made a moſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Complaint,</hi> viz. <hi>That <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was ſtrip'd of his Royal Power by a certain Prince called</hi> Hugo; <hi>whoſe juſt Grief and Com<g ref="char:EOLhyphen"/>plaint we Holy Fathers</hi> (i. e. <hi>the Biſhops there aſſembled) cond<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing, being joined together in the <g ref="char:V">Ʋ</g>nity of Spirit, have made thereupon this Decree: Let no Man henceforth in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade the Kingly Power, nor deal treacherouſly therewith; for we have decreed by putting in execution the Council of</hi> Toledo, <hi>That</hi> H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>go <hi>the Invader, and Raviſher of the Kingdom of K.</hi> Lewi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>ſhall be ſmitten with the Sword of Excommunication, unleſs by an appointed Time he com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Council, and repent of ſo ſoul a Fact, and make ſatisfaction.</hi> Had this Complaint been made to St. <hi>Aſaph</hi> or Dr. <hi>Burnet,</hi> They would have told poor <hi>Lewis</hi> that <hi>Hugo</hi> had conquered him, that he had loſt all his Right, and ſo long as he lived muſt only be called the <hi>late King Lewis;</hi> that for their parts they were bound to <hi>ſwear Allegi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> to <hi>Hugo,</hi> and to aſſiſt him to the uttermoſt againſt <hi>Lewis:</hi> But contrary-wiſe theſe Biſhops own the Cauſe of the diſtreſſed Prince, and decree the Uſurper excommuni<g ref="char:EOLhyphen"/>cate, if he reſtore not his ill-gotten Goods: Now whom ſhall we believe? For either this Council or ſome Biſhops now living muſt be in the wrong.</p>
+            <p>The Caſe of <hi>Ludovi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Plus</hi> has too much Aſſinity with ours; for his own Children roſe up againſt him; and a parcel of St. <hi>Aſaphs, Burn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owlers,</hi> and ſuch other Godly and Loyal Prelates met together, and made up that which is called <hi>Synodus Compendienſis,</hi> and by the Learned <hi>Baluzius</hi> juſtly ſtiled <hi>Synodus Praedatoria;</hi> theſe join with the Rebellious Children againſt the Father, and formally ſtrip him of his Authority in order to his being impriſoned by his Son <hi>Lotharius:</hi> But againſt theſe <hi>Rabanus Maurus,</hi> Arch-biſhop of <hi>Mogunce,</hi> then living, a Man of greater Reputation and Authority than a thouſand ſuch falſe Loon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſtoutly oppoſeth himſelf; and with the Courage and Fidelity of a Chriſtian Biſhop condemns the Fact, and writes a Tract on purpoſe, <hi>De reverentia Filiorum erga Patres, &amp; ſubdi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rum erga Reges,</hi> which I think may be worth any honeſt Man's reading. Much ſuch another Caſe was that of the Emperor <hi>Henry</hi> the 4th, but the more abominable for this, that that whole Scene of Wickedneſs was managed by <hi>Gregory</hi> the 7th, otherwiſe called Pope <hi>Hildebrand,</hi> but more deſervedly Pope <hi>Firebrand;</hi> who the better to colour over the matter excom<g ref="char:EOLhyphen"/>municates the Emperor, and abſolves his Subjects from their Allegiance; but the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Leige</hi> being too Honeſt and Loyal to think himſelf ſo diſcharged of his Oath of Fealty, continued faithful to the Emperor; for which the Pope darts his Thunder<g ref="char:EOLhyphen"/>bolts againſt both him and his Adherents, notwithſtanding which his Clergy continue firm to him, juſtifie their Proceedings from the Obligation of their Oaths, and the Commandments of God, and look upon his Excommunication as meerly <hi>brutum ful-men,</hi> and of no Force. It would be too tedious to heap up what might be brought of this kind from Examples, Canons, and declared Judgment of Holy Fathers: From all which it is plain, that the pious conſci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntious Clergy ever thought themſelves in Duty bound, not only to adhere to their lawful Prince againſt all Uſurpers and Rebels, but to cenſure thoſe that did otherwiſe, which was ſufficient to induce our Church to compoſe this Canon, and juſtifie her in ſo doing, and ought to ſtrike a terro<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in all thoſe who incurr the Cenſure of it; which that they may be the more aware of, I ſhall now proceed further to explain it in the other Particulars.</p>
+            <p>The next Thing we have to do is to enquire after the meaning of an Excommu<g ref="char:EOLhyphen"/>nication <hi>ipſo facto;</hi> where by the way take notice, that this ſort of Excommunication
+<pb n="24" facs="tcp:61848:13"/>
+is never denounced but againſt Crimes of more than an ordinary Size; either againſt ſuch as are of themſelves of ſo very ill Name, that being once known there needs not the canvaſſing of a Judge to induce any Perſons to condemn them; or elſe of ſuch pernicious and fatal Conſequence that they ought not to be allowed the leaſt encou<g ref="char:EOLhyphen"/>ragement, or ſo much as any ſorbearance; by which you may eaſily perceive how heinous a Fault it is adjudged in the ſenſe of the Ch. of <hi>England,</hi> for any Perſon to m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im the Authority of his King, or diſmantle him of it, ſhe having denounced no leſs than an Excommunication <hi>ipſo facto</hi> againſt it: And indeed, what Laws, or what Authority ſhall be able to reſtrain thoſe Men, who ſhall dare to make an Attempt up<g ref="char:EOLhyphen"/>on the Sovereign Authority, which is the Guardian of the Laws, and Security of the State? Before Wickedneſs can grow rank enough for ſuch a deſperate Experi<g ref="char:EOLhyphen"/>ment, it muſt have broke thro' and ſhook off the dread of all Laws, and become not only regardleſs of the Duties of Civility and common Honeſty, but to be not ſo much as moved with the ſenſe of the Publick Good and Safety: Now what hopes can any Man cheriſh of ſuch Men? And how miſerable muſt that Government be which is ra<g ref="char:EOLhyphen"/>viſht into ſuch hands? But to return to our Buſineſs, Excommunication <hi>ipſo facto</hi> is where the Diſcuſſion and definitive Sentence of the Judge is neither requiſite or ne<g ref="char:EOLhyphen"/>ceſſary as to the Offender; but the Fact being committed, the Excommunication im<g ref="char:EOLhyphen"/>mediately takes place, and the Law in a great meaſure executes it ſelf: So that Ex<g ref="char:EOLhyphen"/>communication <hi>ipſo facto</hi> is Excommunication <hi>ab ipſo jure, ſive ſententiae a jure latae,</hi> and is ſo call'd in Contradiſtinction to Excommunication <hi>ab Homine ſive Judice,</hi> where the definitive Sentence muſt be waited for and pronounced, before the Excommunica<g ref="char:EOLhyphen"/>tion can take effect.</p>
+            <p>From what hath been ſaid it is evident, that the guilty Perſon in this Caſe is im<g ref="char:EOLhyphen"/>mediately in the ſtate of <hi>Excommunication;</hi> ſo that he ought not to thruſt himſelf in<g ref="char:EOLhyphen"/>to the <hi>Communion</hi> of the Ch. it being a thing which belongs not to him, and to which he hath no Right, and from which he can receive no Benefit; but ought to put him<g ref="char:EOLhyphen"/>ſelf into the ſtate of a <hi>Penitent,</hi> to bewail his Fault, and make what Satisfaction he is able, and to endeavour his Reconciliation to the Church upon ſuch Terms and Conditions, as the proper Judge in that caſe ſhall think fit for that end and purpoſe, of which a true and hearty Repentance, ſo far as Man can diſcern, is always one. But then whether all Perſons are bound to treat this Perſon as an Excommunicate, is another Queſtion. Indeed if he (as he ought) confeſs his Fault, declare his Con<g ref="char:EOLhyphen"/>dition and bewail it, there can be no doubt, but that others, though they may pity him, yet ought to treat him as an Excommunicate, till he be reſtored by due courſe; but then it too often happens, that the Fact is hid and ſecret; or, if the Fact be known, yet the Criminal is not; or, if both Fact and Criminal be known, yet it may not be known, or but to few, that there is any Canon or Law, which <hi>ipſo facto</hi> puts ſuch a Perſon under Excommunication; yea, after all, though Fact, Cri<g ref="char:EOLhyphen"/>minal, and Canon be known, yet it may be a doubtful and controverted caſe, whe<g ref="char:EOLhyphen"/>ther the Crime be within the Verge and Cenſure of ſuch Canon. Now, in ſuch a caſe, I humbly conceive, that no Man is ſtrictly bound to treat ſuch a Perſon as an Excommunicate, until a declaratory Sentence of a proper Judge have paſſed on the thing, though a definitive one be needleſs; that is, that the Judge having true no<g ref="char:EOLhyphen"/>tice of the Crime, do declare, that it is the ſame, againſt which the Canon pro<g ref="char:EOLhyphen"/>nounces
+<pb n="25" facs="tcp:61848:13"/>
+an Excommunication <hi>ipſo facto;</hi> and this publiſhed, ſhall be ſufficient to ob<g ref="char:EOLunhyphen"/>lige others to treat the Perſon ſo declared againſt as under a ſtate of Excommunica<g ref="char:EOLhyphen"/>tion: But then again, there are Caſes wherein ſo much as a declaratory Sentence is needleſs, and Perſons may be bound to look on the Criminals as <hi>Excommunicates,</hi> with<g ref="char:EOLhyphen"/>out any ſuch Sentence; as when the Fact, Criminals, and Canon paſſing Sentence thereon, are notoriouſly known; in ſuch caſe the Church requires all perſons with<g ref="char:EOLhyphen"/>out more adoe to take notice of the Offenders, and to treat them as perſons under the <hi>Sentence of the Canon,</hi> tho' the Judge hath given <hi>no Sentence</hi> in the caſe, and <hi>com<g ref="char:EOLhyphen"/>mends</hi> them for ſo doing, tho' in other caſes it allows them not the Judgment. This Mr. <hi>Hody</hi> doubtleſs would have told us, if it had been for his turn; but thanks to more fair and ingenuous Perſons, the <hi>Canon</hi> now ſpeaks plain for itſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>But if any ſhall ſeparate themſelves from Communion with their Superiour for any Hereſie condemned by the H. Synods and Fathers, he publickly preaching the ſame Hereſie to the People, and teaching it barefac'd in the Church, ſuch ſhall not onely be free from Canonical Cenſure for ſeparating from Communion with the Biſhop ſo called before ſynodical Condemnation, but they ſhall be thought worthy of the Honour that is due to the Orthodox; becauſe they have not condemned a Biſhop, but a falſe Biſhop, and a falſe Teacher, and have not divided the <g ref="char:V">Ʋ</g>nity of the Church by Schiſm, but have ſtudiouſly endeavoured to preſerve the Church from Schiſms and Diviſions.</hi> Thus in caſes manifeſt and notorious Chriſtians followed the Cenſure of precedent <hi>Canons,</hi> without ſtaying for particular Sentence; the onely Queſtion then is, whether there be ſuch notorie<g ref="char:EOLhyphen"/>ty in our particular caſe? And truly I think that there ſcarce ever appeared in the World a more notorious and manifeſt caſe; the Matter of <hi>Fact</hi> is evident to all, there being ſcarce a <hi>Child</hi> of five years old in the Kingdom who doth not know how the Authority of K. <hi>James</hi> is trampled on, deſpiſed, and denied, if he be not taught to do it himſelf; and as for the Perſons, they are as well known, the Laymen glorying in it in all places, and the Clergy roaring it out before whole Congregations; and then the Canon which cenſures them as excommunicate <hi>ipſo facto</hi> for ſo doing, is or ought to be as well known; for it is commanded with the reſt <hi>once every year</hi> to be read in all Churches, which I think is fair notice; and if they will not take it, affected Ignorance will rather aggravate than excuſe their Fault; from all which it is plain, that theſe Offenders ought to be treated as excommunicate <hi>ipſo facto</hi> upon the Autho<g ref="char:EOLhyphen"/>rity of the Canon without waiting for the declaratory Sentence of a living Judge.</p>
+            <p>Having conſidered the nature of an Excommunication <hi>ipſo facto,</hi> I ſhall next en<g ref="char:EOLhyphen"/>quire into the ſtate and condition of an <hi>excommunicated Perſon,</hi> which is very ſad and dreadfull as to any Man; but when it falls to be a Clergyman's Lot, it makes fatal Work: For, 1. It diveſts him of the Power of Exerciſing any Eccleſiaſtical Juriſ<g ref="char:EOLhyphen"/>diction; and if nevertheleſs he will take upon him to exerciſe it, it renders all his Acts invalid and null: And I think it will be worth ſome Mens pains to enquire whe<g ref="char:EOLhyphen"/>ther this may not affect all the Eccleſiaſtical Courts in <hi>England;</hi> for I doubt it will not be ſufficient to ſay, that many things are done in thoſe Courts which were com<g ref="char:EOLhyphen"/>mitted to them by the <hi>Civil Power,</hi> as things that ſeemed moſt fitting to be done by <hi>Eccleſiaſtical Perſons,</hi> tho' they might be done by others; for though this tacitly ac<g ref="char:EOLhyphen"/>knowledges a Nu<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity or what proceeds from their Spiritual Authority, yet I ſee not what Service it can do them as to what is intruſted to them by Secular Authority;
+<pb n="26" facs="tcp:61848:14"/>
+for if it were intruſted in them as Eccleſiaſtical Perſons, and as Eccleſiaſtical Perſons th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd excommunicate, I cannot ſee how they continue capable of exerciſing ſuch Ecc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiaſtical Juriſdiction: But let thoſe Perſons look after that who have or ſha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l have any Suits there, or have occaſion to prove any Wills wherein they are in<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, or the like; for if ever things ſhould come to Rights again, (which I hope is no hurt to wiſh,) if ſuch Matters were not confirmed by a lawful Authority, per<g ref="char:EOLhyphen"/>haps ſome who at preſent are proud of their Rebellion, and the Effects of it, may live to curſe the time that ever the <hi>Mob made Kings,</hi> or <hi>a Dutch man Archbiſhops.</hi> 2. Excommunication renders a Clergyman, ſo long as he continues in that ſtate, un<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apable of any Eccleſiaſtical Beneſice or Promotion; and if he attempt to take any, all means uſed to conſer it upon him become ineffectual; a <hi>Preſentation</hi> of ſuch a one cannot be accepted; or if it be, his Inſtitution is void. They may chew the Cud up<g ref="char:EOLhyphen"/>on this who have accepted any Preferments under theſe Schiſmatical Biſhops, for the obtaining of which they have taken Oaths, whereby they denied their lawful King, and conſequently then incurred an Excommunication <hi>ipſo facto.</hi> 3. It makes the whole Adminiſtration of his Miniſterial Office ineffectual: You can expect no Return of Prayers made with him with whom you ought not to communicate; the B. Sacra<g ref="char:EOLhyphen"/>ment conſers no Beneſit received from his Hands; he cannot authoritatively bleſs the People of God who is himſelf under a Curſe, and excluded from being a part of them. And here I think all thoſe who have joined themſelves to ſuch Perſons, to be highly concerned to lay their Hands on their Hearts, and conſider well what they have done in communicating with them hitherto, and whether they can think it ſafe to continue therein; for in communicating with them as they are Schiſmaticks, they make them<g ref="char:EOLhyphen"/>ſelves Schiſmaticks, and in communicating with them as they are Excommunicates, not only all their Labour is loſt, but they get a Curſe inſtead of a Bleſſing.</p>
+            <p>The matter were not altogether ſo bad, if this Cenſure extended only to Clergy<g ref="char:EOLhyphen"/>men; but that a thorough Proviſion might be made to ſecure the Subject in Obedi<g ref="char:EOLhyphen"/>ence, it ſpares none; and therefore I ſhall conſider how <hi>Excommunication</hi> affects Per<g ref="char:EOLhyphen"/>ſons in general, whether Lay-men or Clergy-men: 1ſt. Then, no <hi>excommunicated</hi> Perſon ought to be ſuſſered to be preſent at the Service of the Church; and if the Miniſter who officiates, can no other ways get rid of him, he ought rather to break off and deſiſt, than to ſuſſer ſuch a Perſon to join in Communion with his Flock. 'Tis indeed true, that he may be allowed to be preſent, when the Sermon is made, as ſup<g ref="char:EOLhyphen"/>poſed to make for his Information or Conviction; but even then he ought not to be intermingled with others, but to ſtand alone, and plainly diſtinguiſhed from the reſt of the Congregation: But to the Prayers ſuch Perſons never were nor ought to be admitted. 2dly. Every <hi>excommunicated</hi> Perſon is eſpecially debarred from being a Partaker of the Lord's Supper; and antiently if any Prieſt did adminiſter the Sacra<g ref="char:EOLhyphen"/>ment to ſuch an one b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore he was Canonically reconciled to the Church, (which ori<g ref="char:EOLhyphen"/>ginally was done by the Biſhop, or by Authority deputed from him,) he himſelf be<g ref="char:EOLhyphen"/>came liable to be depoſed, and no longer intruſted in the Miniſtry. 3dly. Whoſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver ſtands excommunicated, <hi>(non <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrante clave,)</hi> he is diſmembred and cut off from the Church, and conſequently deprived of thoſe Supplies and Succours which the M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bers receive by being united together in one Body, and by means thereof to Chriſt their Head; they are like Branches cut off from the Vine, there is no way or
+<pb n="27" facs="tcp:61848:14"/>
+means left whereby any gratious Succours can be conveyed unto them, unleſs there be a Reinſition, and they be received and grafted in again. 4ly. Every excommuni<g ref="char:EOLhyphen"/>cate Perſon is under a heavy Curſe; the Devil has a peculiar Power over him; ſo that his Condition is very deplorable and deſperate, whilſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he remains under that Sentence: Hence the Scripture ſtyles it <hi>a delivering unto Satan,</hi> 1 Cor. 5. 5. and 1 Tim. 1. 20. and <hi>Tertullian</hi> calls it <hi>ſummum futuri Judicii Praejudicium, the higheſt Preſumption of what ſhall be his Sentence in the day of Judgment.</hi> God will rati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie in Heaven the Sentence of his Church on Earth, when ſhe proceeds againſt Offenders in vindication of his Laws and Ordinances. That Saying of our Saviour to his Apo<g ref="char:EOLhyphen"/>ſtles is enough to ſtrike any Man with Horrour, who juſtly incurrs the Cenſure of the Officers of the Church, <hi>Verily I ſay unto you, whatſoever ye ſhall bind on Earth, ſhall be bound in Heaven; and whatſoever ye ſhall looſe on Earth, ſhall be looſed in Heaven.</hi> Mat. 18. 18. 5ly. An excommunicated Perſon is or ought to be debarred from moſt of the Beneſits and Comforts of civil Converſation; he is like a blown Dear, every one in the Herd, even for his own Safety, will puſh him from him; or like a Man that has the Plague, every one that would eſcape the Infection avoids him: But of this more preſently, in its due place.</p>
+            <p>The <hi>State</hi> and <hi>Condition</hi> of a Perſon under the Sentence of Excommunication being thus briefly explain'd, I think it may be ſufficiently dreadful to any who have any ſenſe of Chriſtianity, or apprehenſions of the Wrath of God; and if this be the ſtate of the Revolutioniſts, they have no great cauſe to brag of their Bargain; and if others did carry themſelves towards them, as they ought to do towards Men in ſuch a State, I am apt to think they would quickly hang their Heads, and, if their Hearts were not as hardened as <hi>Pharaoh</hi>'s, very Shame would work in them remorſe, and bring them to Repentance: But tho' I have little hopes of this, both Prieſts and People being ſo generally infected; yet to diſcharge my own part, I ſhall proceed in my Method before propounded, and ſhall now examine what ought to be the Behaviour and Car<g ref="char:EOLhyphen"/>riage of other perſons towards a perſon that is under <hi>Excommunication;</hi> and 1. All perſons ought to ſtand upon their Guard againſt him, and not onely keep him from the publick Service, and drive him out of their Churches, as a Profaner of their Communion, and one who has no Right to it, and as one who is infectious and in<g ref="char:EOLhyphen"/>jurious to them, and makes their Communion ineffectual; but farther they ought to take care that they join not in any private Devotions with him, nor admit him to Prayers with them, tho' in their own Houſes: I do not ſay but they may pray for, inſtruct, admoniſh, and endeavour what they can to reclaim ſuch a one; but they muſt not pray with him, nor join in any other Act of Chriſtian Communion with him. <hi>Procul ite profani,</hi> was proclaimed at the Celebration of the Heathen Myſteries; and do not the Chriſtian Myſteries deſerve much more Reverence and Aw<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? Ought we not as nigh as we can to have a care that we admit none of his Enemies, none that have notoriouſly provoked him, and not attoned their Crime, when we perform thoſe Acts and Offices wherein we have Acceſs to, and Communion with the great God of Heaven and Earth? I confeſs, that particular Perſons ought not to take up<g ref="char:EOLhyphen"/>on them by their own Authority to exclude any from Communion; but i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they know any perſon to be guilty of a notorious Crime, or live in a ſcandalous Way, they ought to complain to proper Judges; but when the Church has paſs'd her <hi>Conſure</hi>
+               <pb n="28" facs="tcp:61848:15"/>
+upon them, they have a kind of <hi>Cain</hi>'s Brand, and are marked out for all Men to avoid; it is our B. Saviour's own Direction to us concerning every ſuch perſon, that he be unto us <hi>as a Heathen Man, and a Publican,</hi> Mat. 18. 17. and ſuch, tho' they had been Emperours, the primitive Chriſtians were ſo far from admitting to their Com<g ref="char:EOLhyphen"/>munion, that they would not ſo much as allow them to be bare Spectators; not on<g ref="char:EOLhyphen"/>ly the <hi>Honour,</hi> but the very <hi>Being of the Church</hi> cannot be long upheld, if People will admit a mingle of ſuch p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſons in divine Offices; and therefore heretofore if the <hi>Church Cenſures</hi> were not taken notice of, ſhe <hi>excommunicated</hi> thoſe who <hi>received her Excommunicates;</hi> and till her Diſcipline can be revived, her Doctrine cannot be ſe<g ref="char:EOLhyphen"/>cured. I deſire all thoſe ſeriouſly to conſider this, who ſlock to the Pariſh Churches, where they not only joyn in Communion with Excommunicate<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but the very perſons, who perform all the Miniſterial Offices, lie under the cenſure of Excommunication by virtue of the forecited Canon; what mad Men would turn their very Prayers, their Sacraments, and all their Chriſtian Offices into ſin? For thus they do, who take this courſe; no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do I value their upbraiding me with th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir numbers, for certainly we had never been forewarned, <hi>not to run with a multitude to do evil,</hi> if numbers could excuſe us. Chriſt calls his Flock <hi>little,</hi> and I had rather be of it, when at the leaſt, than of the Devil's monſtrous Herd, even then when he boaſted of a power to di<g ref="char:EOLhyphen"/>ſpoſe <hi>of all the Kingdoms of the World.</hi>
+            </p>
+            <p>The very nature of Chriſtian Religion requires that the excommunicated Party be excluded from <hi>Chriſtian Communion;</hi> but then farther, that they might make ſuch weary of their ſin, and ſhame them out of it, they would not afford them the be<g ref="char:EOLhyphen"/>nefit of civil converſation, Charity adviſing them by that means, if poſſible, to pull them out of the fire. Hence St. <hi>Paul</hi> bids us <hi>Note</hi> ſuch a Man, <hi>and have no company with him, that he may be aſhamed,</hi> (2 Theſſ. 3, 14.) Upon this account Chri<g ref="char:EOLhyphen"/>ſtians were wont, as far as poſſible, to avoid all converſation with ſuch; they would not willingly live with them under the ſame Roof, they would not eat with them at the ſame Table, and indeed the Scripture requires no leſs, charging us <hi>with ſuch an one, no not to eat,</hi> (1 <hi>Cor.</hi> 5, 11.) they would not promiſcuouſly uſe with them even thoſe things which made for Health, as St. <hi>John</hi> would not waſh with <hi>Cerinthus</hi> in the ſame Bath. They would not give them the common Complement or Salutation in the ſtreet; they would have no Traffick or Commerce with them, and many other things, which both for memory and warning ſake, are briefly com<g ref="char:EOLhyphen"/>prehended in this odd <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſe. <hi>Os, Orare, Vale, Communio, Menſa negato.</hi>
+            </p>
+            <p>And as their behaviour was thus towards them living, ſo if they perſevered in their ſin, they refaſed to allow them <hi>Chriſtian Burial</hi> when dead. And indeed he that will obſtin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely perſiſt in his evil courſe, and regard neither the Admonition, nor the Cenſures of the Church to his very death, deſerves no better than the Burial of an <hi>Aſs.</hi>
+            </p>
+            <p>But that I may not ſeem to encourage <hi>Chriſtians</hi> to outrun their Duty, I muſt not on<g ref="char:EOLhyphen"/>ly acquaint them with what they may withold from ſuch, but alſo what they may or ought to allow them; Excomm<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>catiion doth by no means diſſolve relative Duties, as that between Parent<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Children, Husband and Wife, King and Subjects; but theſe Duties ought to be paid, if poſſible, more care<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully than ever, that no offence be given to the excommunicate perſon, nor a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y encouregement to continue in his ſin,
+<pb n="39" facs="tcp:61848:15"/>
+but rather all lawfull means uſed to win and draw him off from it; if Contracts or Bargains have been made with him, they muſt be performed; if Debts be owing to him, they muſt be paid; if either his or others Spiritual or even Temporal good may be ſignally advanced by a cautious temporary converſe with him, it ought not to be neglected, for no Man's lying under Excommunication, can war<g ref="char:EOLhyphen"/>rant another to be either unjuſt or uncharitable. So likewiſe neceſſities of life, as Meat, Drink, Raiment, and the like, either for himſelf or his Family, ought to be ſold him for his Money; or otherwiſe miniſtred to him, if through extreme pover<g ref="char:EOLhyphen"/>ty he be not able to buy; nor can I ſee reaſon to condemn him who hath any com<g ref="char:EOLhyphen"/>merce with an excommunicate perſon, if he be ignorant of his Crime, or the Law that condemns it under that penalty. The Duties and Allowances in this caſe have been generally comprized in much ſuch a Verſe as the former.</p>
+            <q>
+               <l>
+                  <g ref="char:V">Ʋ</g>tile, lex, Humilis, Res ignorata, neceſſe.</l>
+            </q>
+            <p>In ſhort, whatſoever Duties we owe them, muſt be duly paid; and in caſe of neceſſity, ſo far as the neceſſity conſtrains, civil Con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſation or Traffick may be al<g ref="char:EOLhyphen"/>lowed, but then even theſe things muſt be done with mourning over them, letting them ſee that you do not countenance their ſin, and uſing all honeſt and ſitting mean, to convince and reclaim them; but then no pretended neceſſity can excuſe you in ſuch a compliance, as to joyn with them in the Acts o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Chriſtian Worſhip</hi> and <hi>Communion;</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or let the caſe be never ſo hard, there can be no neceſſity of ſinning; and ſuch commu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icating will be a very great ſin on many accou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, as admitting them to thoſe Office and Ordinances, where<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n they ought to have no ſhare, as entitling them to thoſe Benefits and Bleſſing, to which they have no right, as being a downright contempt of the Authority of God's Church, and conſequently the ready means to deſtroy all Order and Diſcipline, and thereby to introduce Confu<g ref="char:EOLhyphen"/>ſion, and in the end to ove<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>throw and utterly root out the Church it ſelf.</p>
+            <p>As the Sentence is dreadful and heavy in this caſe upon the guilty Perſons, ſo their Condition is ſtill the worſe upon the ſcore of the difficulty they lie under of being reconciled: For the Canon ſaith peremptorily, that no ſuch Perſon ſhall be <hi>reſtored but only by the Arch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>biſhop after his Repentance and publick Revocation of thoſe his wicked Errours.</hi> Here are a gradation of Difficulties, all which they muſt paſs through<g ref="char:punc">▪</g> and even thoſe Men who love the Sin commonly hate the Shame, and will uſe all the ſhuffling Tricks imaginable to ſhift it off, tho' it naturally follow them; but here they are obliged to give God the Glory, and take the Shame to themſelves; they muſt not only repent but recant; and this muſt be done openly and ſolemnly, that the World may ſee, and take warning to avoid the ſame Wickedneſs: This is no ſmall piece of Mortification to proud rebe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lious Spirits, who for the moſt part (as we ſee by ſad Experience) will rather chuſe to run the haz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd of their eternal Damnation, than to ſeem to leſſen their Eſteem and R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>putation by acknowledging their Errors or Crimes; and yet when all this is done there is a Difficulty ſti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l remaining: For they cannot be reſtored but <hi>only by the Arch-biſhop.</hi> So great a care hath our Church taken that Chri<g ref="char:EOLhyphen"/>ſtians might be good Subjects, and ſo highly did ſhe think her ſelf concerned what in her lay to make them ſo; ſhe did not think it her Buſineſs only to ſtand ſtill and look on, and cry it was a matter meerly of <hi>Civil Concern,</hi> whilſt Subjects roſe up in Re<g ref="char:EOLhyphen"/>bellion, and dethroned, or ſo much as oppoſed or denied the true Rights and Autho<g ref="char:EOLhyphen"/>rity
+<pb n="30" facs="tcp:61848:16"/>
+of their lawful King; but to ſhew her deep Senſe how ſcandalouſly the Chriſtian Religion was injured hereby, ſhe not only ſeverely cenſures ſuch Offenders, but alſo clogs their Reſtoration with great Difficulties, and makes it a <hi>reſerved Caſe.</hi>
+            </p>
+            <p>I am not ignorant that the Biſhop of <hi>Rome,</hi> who graſps at and claims no leſs than all, has made Reſervations, till he has reſerved away in a manner the whole Authority of all the Biſhops in his Communion; but the beſt things may be abuſed, or uſurped upon: For in the firſt Ages of the Church we find Caſes reſerved, but then it was by Canons made in Council, where it was thought neceſſary for the benefit of the Church to reſtrain the exerciſe of Juriſdiction of ſingle Biſhops in ſome ſpecial Caſe; hence it was decreed that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nothing of moment ſhould be done without the Biſhop of the <hi>Prime See,</hi> whom we now call a Metropolitan or Arch-biſhop; and herein our Church hath trod in the Steps of the Primitive Fathers: For ſhe leaves the Biſhops their juſt Authority, and yet reſerves ſome matters of more univerſal Influence and concern to the Metropolitan; and that ſhe hath done it in this and ſome other caſes perhaps there are weighty Reaſons: As, 1ſt. To preſerve and ſecure the Diſcipline of the Church in matters of great importance and publick concern; Favour, Affecti<g ref="char:EOLhyphen"/>on, Intereſt, or Importunity of Friends, might perhaps be apt to ſway ſometimes with the particular Biſhop, either to overlook the thing, or too eaſily to reconcile the Perſons; whereas the Metropolitan is leſs obnoxious to ſuch Motives: Beſides if he ſhould neglect to do his part, the Suffragan Biſhop would have juſt cauſe to com<g ref="char:EOLhyphen"/>plain, and deſire the exerciſe of his Jurisdiction in that particular to be reſtored, if the other anſwer not the end of the Reſervation; and thus they are made a mutual Spur to and Watch upon each other. 2dly. For more publick Satisfaction, the Crime may be notorious, and the Offence given to a whole Nation, or more; and if the Perſon ſhould be reconciled by his <hi>Ordinary,</hi> it might be known to few, and conſe<g ref="char:EOLhyphen"/>quently the Scandal remain; but being done by the Metropolitan it muſt neceſſarily be more notorious; the Party's Repentance will be more publick, and a more ample Satisfaction made for the Diſhonour done to the Laws of God and his Church. 3dly. For a particular Brand upon the Crime, and to teſtifie the Judgment of the Church as to her high deteſtation of it: For every one muſt think that ſhe hath a ſingular Ab<g ref="char:EOLhyphen"/>horrence of that Crime which ſhe declares ſhe will not forgive but upon ſuch ſevere conditions. 4thly. For the more effectual puniſhing and reclaiming the Offender; he is by this means more ſurely held, and his Trouble and Pains much greater to get out of the Snare he hath run into: He muſt be more thoroughly mortified before he will ſubmit to ſuch open Penance and Recantation; and when it is over, its very be<g ref="char:EOLhyphen"/>ing ſo well known will in all probability be a means to prevent his relapſing. Laſt<g ref="char:EOLhyphen"/>ly, The more powerfully to deter others, that they may not dare to run in that Wickedneſs which intangles Men with ſuch great Difficulties, and brings them to ſuch open Shame. Now as big and ſcornfully as our Adverſaries look upon us, I think I have proved that theſe are the Circumſtances they are under; and having done my endeavour to convince them of their Sin and Danger, I know not what I can now do more or better for them, than to pray to God to give them Repentance; they have not only brought a Flouriſhing Church into a moſt miſerable condition, but have razed the very Foundations and ſet her on no Bottom; ſhe is not only leſt at the diſ<g ref="char:EOLhyphen"/>cretion of the Secular Power, but proſtituted to the frantick Will and Humour of
+<pb n="31" facs="tcp:61848:16"/>
+every Uſurper; which is little better than putting God's Church under the Devil's Protection. The Breach of Promiſes and Oaths, the renouncing our natural Allegi<g ref="char:EOLhyphen"/>ance and Canonical Obedience are made no Sins, if the adhering to them ſhould chance to bring us under any Inconvenience: And thus the Doctrine of the Croſs ſo particu<g ref="char:EOLhyphen"/>larly entailed on Chriſtianity is huff'd and ſcoff'd out of Doors. Men may join with the Devil to delude themſelves and others, but certainly God will viſit for ſuch Sins as theſe, and ſooner or later make ſuch Sinners know themſelves: May God in Mercy give them a ſight and ſenſe of their Sins, that they may repent and return, and God's Judgments averted, and our Breaches healed; tho' I abominate the Crimes, yet I have no ill-will to their Perſons, and wiſh them reconciled; but as for the <hi>methodus reconciliandi</hi> I leave it to my Superiors, the proper Judges, who doubtleſs will faithfully aſſiſt and adviſe their Metropolitan how the Canon may be ſatisfied. And provided that ſome ſort of Reparation were made for the Diſhonour done to God and his Church, and the Wrongs done to the Lawful King; I ſhould very readily ac<g ref="char:EOLhyphen"/>quieſce in almoſt any Terms, and rejoice to ſee an end o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſad Thoughts of Heart cauſed by the Diviſions of <hi>Reuben.</hi>
+            </p>
+            <p>I had here concluded, but that as I was penning theſe few Conſiderations News was brought me, that, after ſo long conſulting and caballing, <hi>Stillingfleet-Hody</hi> was come abroad, laying about him like <hi>Goliah,</hi> knocking down no leſs than 6 or 7 at once, and making bolder Challenges than ever did that mighty <hi>Philiſtine:</hi> I did think my ſelf as to my preſent Subject out of his reach, but not knowing what a Mad-man, who lays about him at all Adventures, might hit upon; I procured the Book: Now tho' his Principles well improved will vindicate any Villany, or deſtroy any thing honeſt or true, yet not finding my preſent Subject particularly affected; I ſhall diſ<g ref="char:EOLhyphen"/>miſs him and his Book with only ſome few Obſervations, which may ſerve a little to ſtay honeſt Men's Stomachs till they can have a full Meal. The Jackdaw in the Fa<g ref="char:EOLhyphen"/>ble ſet out with the Peacock's Plumes did never ſtrut and briſtle at half the rate as doth this Vain-glorious Fellow; and if every Bird ſhould ſeize his own Feather, he might be left as naked and ridiculous as was his Emblem. The very Title is inſolent and amazing: For what honeſt or modeſt Man would diſcourſe and ſet up for <hi>S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Vacant by an unjuſt or uncanonical Deprivation?</hi> For if the Deprivation be uncanonical, the Perſons are not by Canon deprived; if it be unjuſt, the Law (and I hope there may be ſome Law left, tho' we have ſo little benefit of it,) affords every Man a Remedy againſt Injuſtice, and will help him to recover his right againſt it; and the very Plea which the Law aſſigns in this caſe, is <hi>Eccleſia plena,</hi> juſt oppoſite to his Vacancy: But right or wrong, if it be done <hi>by a Power irreſiſtible,</hi> there muſt be a <hi>Submiſſion.</hi> Now I would know what he means by <hi>irreſiſtible;</hi> for properly ſpeaking perhaps only God is ſo; but if by it he means a Power by any wicked means, and in any wicked courſes become Superior to us and able to cruſh us, I think that then his new Notion will war<g ref="char:EOLhyphen"/>rant us to comply with the Devil, if God in Judgment ſhould let him looſe upon us. The Propoſition, which is the Key of his whole Book, and which he calls <hi>a certain and ſelf-evident Maxim,</hi> is, <hi>That whatſoever is neceſſary for the preſent Peace and Tranquillity of the Church, that ought to be made uſe of, provided it is not in it ſelf ſinful, and the ill Conſequences which may poſſibly attend it, are either not ſo miſchievous to the Church, or at leaſt not ſo lik<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly to happen, as the Evils w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> endeavour to avoid.</hi> Now this, tho' in other
+<pb n="32" facs="tcp:61848:17"/>
+Words, is the main Principle which the Author of <hi>the <g ref="char:V">Ʋ</g>nreaſonableneſs of the New Se<g ref="char:EOLhyphen"/>paration</hi> founds his Diſcourſe upon, by which any Man may gueſs at the Genius that runs through the whole Book: It is ſomewhat bold to call that <hi>a certain and ſelf-evi<g ref="char:EOLhyphen"/>dent Maxim,</hi> which depends upon ſo many Contingencies and Poſſibilities, and that alſo in ſuch caſes wherein Men for worldly Intereſt or carnal Security are too prone to judge amiſs. But to paſs by ſeveral Exceptions that might be made againſt it, he knows, that we deny not, but that Biſhops in ſeveral caſes may (I do not ſay are always bound) recede from their own Right for the real good of the Church; but then we ſay there are Caſes, wherein they ought not to give it up for a pretended Peace or Good; and whether the preſent be not one of thoſe Caſes is the Diſpute: To this purpoſe he ought to have proved much more clearly than he any where has, That Canonical Biſhops are bound not only to quit their Churches, and give up the whole diſpoſal of Church-Affairs to a Lay Uſurper, but to renounce their <hi>natural Allegiance,</hi> and vi<g ref="char:EOLhyphen"/>olate their Oaths, whenever they fall under an unjuſt Force<g ref="char:punc">▪</g> and farther to make it <hi>ſelf-evident,</hi> that Perjury and Rebellion are matters in themſelves not ſin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul. For all the Pretences, how ſpecious ſoever, which are ſet up to take off the Obligations which we lie under, either as Subjects or Chriſtians, are meer Shams and Impoſtures: For we are under no <hi>neceſſity,</hi> no <hi>irreſiſtible Force,</hi> nay <hi>not any Force</hi> at all, except that of our <hi>own Wickedneſs, <g ref="char:V">Ʋ</g>ndutifulneſs, and Rebellion; the very return to our Ob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dience would be our Deliverance, our Duty would infallibly ſave us,</hi> and put an end to all theſe Miſeries and Confuſions, unleſs ſuch a ſenſeleſs Imagination could poſſeſs Mens Brains, that a <hi>little ſhrivled Thing</hi> with a <hi>crooked Noſe</hi> could be too ſtrong for all <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging: They will never ſay any thing to the purpoſe in the preſent Caſe, till they prove that Men may plea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own Sins in their Juſtification, and that having engaged themſelves in wicked Courſes, they are thereby authorized to go on, and do worſe. As to the incomparable Vindicator, he in a Bravado tells us <hi>That he ſhall anſwer all that he has ſaid, or ever will be able to ſay, &amp;c. chap.</hi> 4. <hi>pag.</hi> 41. One would ſuſpect that this Man had a mind to invade the Prerogative of God Almighty, and pretend to Omniſcience; Did ever any Man, tho' endued with a Spirit of Propheſie, pretend to know <hi>all that ever ano<g ref="char:EOLhyphen"/>ther will be able to ſay?</hi> For his own ſake he ought to have uſed more Modeſty towards a Perſon, who has as much Learning and an hundred times more Honeſty and Good<g ref="char:EOLhyphen"/>neſs than he and all his <hi>Conſederates.</hi> But he tells us, that his <hi>Eye is particularly on the Learned Vindi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ator;</hi> and to him I am willing to leave him: For tho' he may juſtly glory in ſo great an Adverſary, as being too g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat an honour to him; yet I make no queſtion, but that all he will gain thereby will be to neceſſitate that Learned Perſon to expoſe him to open Shame.</p>
+            <p>I ſhould wrong theſe <hi>few Conſiderations,</hi> if I ſhould farther wander after a Treatiſe, in the contriving of which more Perſons have been concerned than Mr. <hi>Hody</hi>'s Name hath Le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters; and if Perſons will not ſuf<g ref="char:EOLhyphen"/>fer themſelves to be ſuddenly carried away with vain Boaſt, and ſuper-fine Sophiſtry, I doubt not but e're long they will ſee that this <hi>Swaggering Wadhamite</hi> has to do with Men that will not fl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nch, as h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving a Cauſe ſo good, that they are neither affraid nor aſhamed to maintain: In the mean time, retaining my form<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Principles, I have added another Foot for the Cauſe to ſtan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon, which if it prove good, they muſt be caſt, notwithſtanding whatever Mr. <hi>Hody</hi> or any other hath hitherto pl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aded in their behalf, and I think it the more pinching, in that they are obliged to acquit themſelves againſt the Church of <hi>England</hi> and her Canons, which have caſt them out; and till the can get off, in that State I leave them, with the ſame Prayer commonly uſed for Men that have the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lague, <hi>The Lord have Mercy upon them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61848:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:61848:18" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:61848:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:61848:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:61848:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:61848:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:61848:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:61848:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:61848:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:61848:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:61848:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:61848:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
